@@ -1,6 +1,10 @@
 const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
+const rssPlugin = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addPlugin(rssPlugin);
+
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
@@ -12,8 +16,18 @@ module.exports = function(eleventyConfig) {
     footer: {
       copyright: {
         text: '© 2024'
+      },
+      meta: {
+        items: [
+          {
+            href: "/posts/feed.xml",
+            text: "Subscribe to feed"
+          }
+        ]
       }
-    }
+    },
+    feedUrl: 'posts/feed.xml',
+    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
 
   // Collections
