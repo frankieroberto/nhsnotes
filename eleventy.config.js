@@ -35,6 +35,8 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/*.md')
   })
 
+  // Pass through
+  eleventyConfig.addPassthroughCopy('./app/images')
 
   return {
     dataTemplateEngine: 'njk',
