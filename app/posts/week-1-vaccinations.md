@@ -25,7 +25,7 @@ The proposals in that strategy include:
 * improving the experience of booking a vaccination
 * enabling people to access their own vaccine histories
 
-There are a lot of different vaccines to apply these proposals to. One of the first bits of jargon I’ve learnt is ‘section 7A’ list. This refers to the [list of immunisation programmes specified in the agreement between government and the NHS](https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#annex-a-services-to-be-provided), which currently includes 19.
+There are a lot of different vaccines to apply these proposals to. One of the first bits of jargon I’ve learnt is ‘section 7A’ list. This refers to the [list of services specified in the agreement between government and the NHS](https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#annex-a-services-to-be-provided), which currently includes 19 separate immunisation programmes.
 
 Achieving this will require a lot of work, from multidisciplinary teams.
 
