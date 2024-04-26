@@ -17,7 +17,7 @@ I started it though with a visit to the National Theatre to see [Nye](https://ww
 
 I’d hoped it would be inspiring, and it was!
 
-The play brought home the huge hurdles overcame in setting up the National Health Service and the huge impact it has had on people’s lives since.
+The play brought home the huge hurdles that were overcome in setting up the National Health Service and the huge impact it has had on people’s lives since.
 
 The team I’ve joined is looking at how vaccinations are recorded in clinical ‘point of care’ systems. One of these is a system called the [National Immunisation & Vaccination System](https://www.ardengemcsu.nhs.uk/services/business-intelligence/nivs/), developed for recording COVID and flu vaccinations.
 
