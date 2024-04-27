@@ -1,10 +1,6 @@
 ---
-layout: post
 title: Introduction
 date: 2024-04-16
-author:
-  name: Frankie Roberto
-  url: https://www.frankieroberto.com
 ---
 
 Hello.

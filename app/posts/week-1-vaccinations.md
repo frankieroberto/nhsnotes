@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Week 1: Understanding the vaccination strategy"
 date: 2024-04-19
-author:
-  name: Frankie Roberto
-  url: https://www.frankieroberto.com
 ---
 
 My first week with the NHS has mostly been getting set up with various systems and accounts, and starting to understand the area I’ll be working in.

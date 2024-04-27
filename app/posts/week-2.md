@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Week 2: Getting started"
 date: 2024-04-26
-author:
-  name: Frankie Roberto
-  url: https://www.frankieroberto.com
 image:
   src: /images/nye.jpeg
   alt: Photo of me standing against a brutalist concrete wall next to a post for the play Nye
