@@ -17,7 +17,7 @@ On Wednesday the digital vaccination teams had a day together up in Leeds. It wa
 
 Our director [Rachel Hope](https://www.linkedin.com/in/rachel-hope-13a73a193/) gave us all a great reminder that our mission is about improving health outcomes, and not about products, services or technology.
 
-I was also pleased to see a great slide about working in the open. I hope to both demonstrate this and get the value from seeing the work of others.
+I was also pleased to see a great slide about working in the open. I hope to both demonstrate this and benefit from seeing the work of others.
 
 We also had a (virtual) ‘all hands’ later in the week with the wider portfolio of digital prevention services, with a rapid-fire introduction from all the product managers.
 
