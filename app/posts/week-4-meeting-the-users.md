@@ -39,6 +39,6 @@ From my notes this week:
 
 ## Links
 
-* Terence Eden published a retropost about [pushing the button](https://shkspr.mobi/blog/2024/05/pushing-the-button/) to publish the COVID-19 app during the pandemic
+* Terence Eden published a retropost about [pushing the button](https://shkspr.mobi/blog/2024/05/pushing-the-button/) to publish the COVID-19 app source code during the pandemic
 * Lots of sad news stories about whooping cough this week, including [Whooping cough will kill more babies unless UK vaccination rates rise, says expert](https://www.theguardian.com/society/article/2024/may/10/more-babies-will-die-from-whooping-cough-if-uk-vaccination-rates-dont-rise-says-expert)
 * I also just discovered [Doing weeknotes](https://doingweeknotes.com), from the excellent human Giles Turnbull, which goes into beautiful detail of how and why to maintain this habit
