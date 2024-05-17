@@ -29,7 +29,7 @@ I’ve also been talking to our development team about aligning more closely to 
 
 I’m slowly understanding the organisation structure of directorates, sub-directorates, portfolios and teams.
 
-However I’ve often found it useful to develop more informal networks and connections.
+However I’m also finding it useful to develop more informal internal connections.
 
 This observation from Tim Berners-Lee in his [original proposal for the world wide web](https://www.w3.org/History/1989/proposal.html) is as true today as it was back in 1989:
 
