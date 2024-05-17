@@ -19,7 +19,7 @@ It was really inspiring to talk to the vaccination team. One of them had started
 
 ## Wins
 
-I’m slowly gaining access to some essential tools. Some things have taken longer than they should, and at once point I had a ticket open with IT in order to gain access to their system to open tickets. But the IT team are very helpful on the phone, and no doubt have plenty of their own technical migration issues to solve.
+I’m slowly gaining access to some essential tools. Some things have taken longer than they should, and at one point I had a ticket open with IT in order to gain access to their system to open tickets. But the IT team are very helpful on the phone, and no doubt have plenty of their own technical migration issues to solve.
 
 I managed add Adobe Analytics to our guidance website, thanks to a helpful internal guide. I’ve not used this before, so I’m interested to see how useful it’ll be (if you’ve got any experience of it, let me know!).
 
