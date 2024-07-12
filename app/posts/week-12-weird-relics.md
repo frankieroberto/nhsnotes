@@ -7,7 +7,7 @@ Lots goings on this week, both in micro with the work on my project and in macro
 
 I’ve been continuing to work with others on understanding data flows and what individual fields mean and are used for.
 
-Am also starting to realise just how much amazing work took place during the pandemic to spin up new services and platforms. Understandably some of this involved tactical solutions, and the job now is to try and unpick the weird relics and re-align on longer-term models.
+Am also starting to realise just how much amazing work took place during the pandemic to spin up new services and platforms. Understandably some of this involved [tactical solutions](https://www.ukauthority.com/articles/nhs-england-and-improvement-plans-for-unified-data-access-layer/), and the job now is to try and unpick the weird relics and re-align on longer-term models.
 
 ## Data export interfaces
 
