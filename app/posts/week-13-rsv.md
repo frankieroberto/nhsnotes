@@ -15,7 +15,7 @@ My team are working on a service called ‘Record a vaccination’ which will be
 
 The 1 September rollout represents a slightly scary immovable deadline, but we’re prioritising accordingly, and we keep reminding ourselves that the launch is the start not the end, and we’ll keep iterating.
 
-I also visited a health centre (pictured above) to do a blood test , partly to experience the digital and non-digital processes involved – but more on that in a future weeknotes.
+I also visited a health centre (pictured above) to do a blood test, partly to experience the digital and non-digital processes involved – but more on that in a future weeknote.
 
 ## Pilot
 
