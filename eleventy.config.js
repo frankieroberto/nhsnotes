@@ -11,7 +11,8 @@ module.exports = function(eleventyConfig) {
       logotype: {
         text: 'NHSnotes'
       },
-      productName: ""
+      productName: "",
+      organisationName: "Frankie Roberto"
     },
     footer: {
       copyright: {
