@@ -15,7 +15,7 @@ It hurt, but didn’t seem too bad, until one of my children pointed out the blo
 
 I duly took myself to the local <i lang="fr">Maison Medicale</i>.
 
-A sign on the door, in French but also translated into English, pointed out that payment would be required (<i lang="fr">'vous devez avancer les frais'</i>), and that it was up to you to claim it back from any insurance.
+A sign on the door, in French but also translated into English, pointed out that payment would be required (<i lang="fr">'vous devez avancer les frais'</i>), and that it was up to you to claim it back from any insurance. I couldn’t use a [UK global health insurance card](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/) (GHIC), as that would’ve meant travelling an hour to visit a state A&E instead.
 
 I was triaged straight away, but then had some time to wait, as several mountain bikers came in with much worse injuries.
 
