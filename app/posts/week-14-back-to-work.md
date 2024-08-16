@@ -23,11 +23,11 @@ Of course, the real test is when users actually start using the service themselv
 
 I’ve been using the [NHS Prototype Kit](https://nhsuk-prototype-kit.azurewebsites.net/docs) more and more.
 
-Having prototypes that people can view in a browser is proving to be useful for demos (where navigating Figma can be fiddly), and also for developers implementing designs.
+Having prototypes that people can view in a browser is proving to be useful for demos (where navigating Figma can be fiddly), and for developers implementing designs.
 
 I’ve also been trying to help others across the NHS get access to the prototype kit (and GitHub and Heroku) and doing a bit of teaching how it can be used.
 
-We’ve also just released a new version of the kit, which includes a change I made to [the way that prototypes are password protected](https://github.com/nhsuk/nhsuk-prototype-kit/pull/324), which borrowed heavily from a similar change that the GOV.UK Prototype Kit made.
+We’ve just released a new version of the kit, which includes a change I made to [the way that prototypes are password protected](https://github.com/nhsuk/nhsuk-prototype-kit/pull/324), which borrowed heavily from a similar change that the GOV.UK Prototype Kit made.
 
 ## NHS App notifications
 
