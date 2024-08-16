@@ -13,7 +13,7 @@ A news story went out this week highlighting that a study has shown the [RSV vac
 
 ## Demos, demos, demos
 
-I did one demo of our service to some senior stakeholders, and also helped answer questions in another two demo sessions where a colleague demoed our service to over 150 future users.
+I did a demo of our service to some senior stakeholders, and helped answer questions in two demo sessions where a colleague demoed our service to over 150 future users.
 
 In each of these, people were seeing the service for the first time, and the feedback was largely positive!
 
