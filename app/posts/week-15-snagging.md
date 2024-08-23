@@ -31,7 +31,7 @@ Computers are not good at taking such subjective factors into account!
 
 One area of design research I’ve picked up is looking into date pickers.
 
-We have a couple of these in our service, but using the [native HTML date input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date), which has a few usability and accessibility issues.
+We have a couple of these in our service using the [native HTML date input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date), but this has a few usability and accessibility issues.
 
 The Ministry of Justice have recently added [a date picker](https://design-patterns.service.justice.gov.uk/components/date-picker/) to their design system, and the Scottish government design system [has one too](https://designsystem.gov.scot/components/date-picker).
 
