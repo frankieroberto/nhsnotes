@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@x-govuk/govuk-eleventy-plugin": "^6.4.2"
+    "@x-govuk/govuk-eleventy-plugin": "^6.5.0"
   },
   "private": true
 }
