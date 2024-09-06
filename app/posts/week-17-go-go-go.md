@@ -31,6 +31,8 @@ The [line-up of talks](https://design-system.service.gov.uk/community/design-sys
 
 The first talk mentioned the NHS’s [Core20PLUS5 framework](https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-programme/core20plus5/) for reducing health inequalities, which I admit I hadn’t heard of, and the last talk focused on how design systems can contribute to fight the climate emergency. Both thought-provoking.
 
+Also lovely to meet lots of people in the breaks and at the after-conference drinks!
+
 ## It’s ok
 
 Back at the NHS, the digital prevention services leadership team unveiled our unit’s version of the infamous [It’s ok poster](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/) first introduced by GDS back in 2016.
