@@ -19,7 +19,7 @@ Of course, the work doesn’t stop, and in many ways it’s just begun. Lots of 
 
 In the midst of this, we had a team day in Leeds. As always, it was great to be able to work together in person. We even had a team retro where we could write notes onto a physical whiteboard instead of a Mural.
 
-Just as importantly, we had a team dinner in the evening. Given the team has grown, it was the first time we’d met some folk in person, and so a good opportunity to build some social connections.
+Just as importantly, we had a team dinner in the evening. As the team has grown, it was the first time we’d met some folk in person, and so a good opportunity to build some social connections.
 
 ## Design System Day
 
@@ -35,9 +35,9 @@ Also lovely to meet lots of people in the breaks and at the after-conference dri
 
 ## It’s ok
 
-Back at the NHS, the digital prevention services leadership team unveiled our unit’s version of the infamous [It’s ok poster](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/) first introduced by GDS back in 2016.
+Back at the NHS, the digital prevention services leadership team unveiled our  version of the infamous [It’s ok poster](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/) first introduced by GDS back in 2016.
 
-We invited everyone to contribute ideas for statements to add, and got lots of great suggestions.
+Everyone was invited to contribute ideas for statements to add, and we got lots of great suggestions.
 
 I helped edit them down and turn them into a poster for printing:
 
