@@ -35,7 +35,7 @@ Also lovely to meet lots of people in the breaks and at the after-conference dri
 
 ## It’s ok
 
-Back at the NHS, the digital prevention services leadership team unveiled our  version of the infamous [It’s ok poster](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/) first introduced by GDS back in 2016.
+Back at the NHS, the digital prevention services leadership team unveiled our  version of the legendary [It’s ok poster](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/) first introduced by GDS back in 2016.
 
 Everyone was invited to contribute ideas for statements to add, and we got lots of great suggestions.
 
