@@ -17,7 +17,7 @@ On a positive note, the report does say that the NHS’s vital signs remain stro
 
 ## Prevention, prevention, prevention
 
-The report had quite a bit to say about prevention.
+Several mentions of prevention in the report.
 
 It notes that the fall in childhood vaccination rates needs to be addressed, with coverage having now dropped to between 85% and 95%:
 
@@ -41,7 +41,7 @@ All good words, but quite a challenge to deliver!
 
 Following [our launch](/posts/week-17-go-go-go/) last week, I’ve been working on designs for pages which would let us see some metrics from our service. Currently these can only be retrieved by a developer running a script, which isn’t ideal.
 
-The risk with metrics is that you often just end up wanting more of them, and it can also be really hard to identify the right metrics which are actually useful and can lead to improvements, or at least prompt further research.
+The risk with metrics is that you often just end up wanting more of them, and it can also be hard to identify the right metrics which are actually useful and can lead to improvements, or at least prompt further research.
 
 But we can start basic, and take it from there.
 
@@ -49,7 +49,7 @@ Still not sure whether to call it a dashboard or not though.
 
 ## MOJ Design System
 
-I had a nice chat with Helen Nickols and the gang working on the [MoJ Design System](https://design-patterns.service.justice.gov.uk), who seem to have put some fresh life into it after a period of semi-abandonment.
+I had a nice chat with Helen Nickols and the gang working on the [MoJ Design System](https://design-patterns.service.justice.gov.uk), who have put some fresh life into it after a period of semi-abandonment.
 
 It was great to hear how much thought they’d put into their [new date picker](https://design-patterns.service.justice.gov.uk/components/date-picker/) and I’m hoping to borrow as much as possible when re-using it in an NHS context.
 
@@ -57,7 +57,7 @@ It was great to hear how much thought they’d put into their [new date picker](
 
 The Central Digital and Data Office (soon to be merged?) published [Addressing the gaps in service delivery content](https://services.blog.gov.uk/2024/09/10/addressing-the-gaps-in-service-delivery-content/) which promises to start improving the [GOV.UK Service Manual](https://www.gov.uk/service-manual). One to watch!
 
-Owen Jones has written [Weeknote 1](https://owenis.online/pages/blog/weeknotes/2024-09-13/) including a great reflection on the ‘zombie package’ of the autocomplete, which got a small update this week. As I mentioned a few weeks back, we’re [using an autocomplete feature](/posts/week-16-onboarding-organisations/) in our onboarding interface, so it’s good to see this get some attention, even if the planned rebuild is still a way off.
+Owen Jones has written [Weeknote 1](https://owenis.online/pages/blog/weeknotes/2024-09-13/) including a reflection on the ‘zombie package’ of the autocomplete, which got a small update this week. As I mentioned a few weeks back, we’re [using an autocomplete feature](/posts/week-16-onboarding-organisations/) in our onboarding interface, so it’s good to see this get some attention, even if the planned rebuild is still a way off.
 
 A redesign of [NHS.UK](https://www.nhs.uk) went live this week. I'm looking forward to hearing more about this from the team who’ve worked hard on it.
 
