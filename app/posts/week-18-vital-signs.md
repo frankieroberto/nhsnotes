@@ -21,7 +21,7 @@ Several mentions of prevention in the report.
 
 It notes that the fall in childhood vaccination rates needs to be addressed, with coverage having now dropped to between 85% and 95%:
 
-![Graph showing vaccine coverage of children aged 24 months, with lines showing the MMR vaccine at ages 24 months and 5 years and diphtheria at 12 months. All lines have trended downwards since 2019](/images/childhood-vaccination-graph.png)
+![Graph showing vaccine coverage of children aged 24 months, with lines showing the MMR vaccine at ages 24 months and 5 years and diphtheria vaccine at 12 months. All lines have trended downwards since 2019](/images/childhood-vaccination-graph.png)
 
 It also reports that fewer adults are participating in some of the key screening programmes, such as for breast cancer and cervical cancer, although bowel cancer screening rates have increased:
 
