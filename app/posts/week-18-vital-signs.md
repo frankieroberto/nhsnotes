@@ -41,7 +41,7 @@ All good words, but quite a challenge to deliver!
 
 Following [our launch](/posts/week-17-go-go-go/) last week, I’ve been working on designs for pages which would let us see some metrics from our service. Currently these can only be retrieved by a developer running a script, which isn’t ideal.
 
-The risk with metrics is that you often just end up wanting more of them, and it can also be hard to identify the right metrics which are actually useful and can lead to improvements, or at least prompt further research.
+The risk with metrics is never having enough of them and always wanting more. It’s also hard to identify the metrics which will actually be useful and lead to improvements, or which will at least prompt further research.
 
 But we can start basic, and take it from there.
 
