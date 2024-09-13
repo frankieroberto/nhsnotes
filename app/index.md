@@ -13,12 +13,16 @@ related:
       items:
         - text: Imogen Levy
           href: https://teppie-ucd.medium.com
+        - text: Giles Turnbull
+          href: https://gilest.org/notes/index.html
         - text: James Higgot
           href: https://jiggott.medium.com
         - text: Matt Edgar
           href: https://blog.mattedgar.com
         - text: Matt Jukes
           href: https://digitalbydefault.com
+        - text: Owen Jones
+          href: https://owenis.online/pages/blog/
         - text: Steve Messer
           href: https://visitmy.website/tag/weeknotes/
         - text: Trilly Chatterjee
