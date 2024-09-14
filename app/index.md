@@ -11,6 +11,8 @@ related:
   sections:
     - title: Other weeknoters
       items:
+        - text: Benjy Stanton
+          href: https://www.benjystanton.co.uk/blog/
         - text: Imogen Levy
           href: https://teppie-ucd.medium.com
         - text: Giles Turnbull
