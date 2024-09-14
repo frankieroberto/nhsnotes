@@ -18,6 +18,9 @@ module.exports = function(eleventyConfig) {
       copyright: {
         text: '© 2024'
       },
+      contentLicence: {
+        text: "This is a personal blog. Views expressed are not necessarily those of the NHS."
+      },
       meta: {
         items: [
           {
