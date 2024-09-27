@@ -3,7 +3,7 @@ title: "Week 20: Pharmacy vaccinations"
 date: 2024-09-27
 ---
 
-The biggest news for us this week was that it is now possible for 75 to 59 year olds to [book an RSV vaccination at a pharmacy](https://www.nhs.uk/nhs-services/pharmacies/book-or-cancel-an-rsv-vaccination-at-a-pharmacy/).
+The biggest news for us this week was that it is now possible for 75 to 79 year olds to [book an RSV vaccination at a pharmacy](https://www.nhs.uk/nhs-services/pharmacies/book-or-cancel-an-rsv-vaccination-at-a-pharmacy/).
 
 It is currently restricted to the East of England only, as this is the first time that our [Record a vaccination service](https://digital.nhs.uk/services/vaccinations-point-of-care/record-a-vaccination-service) is being used by pharmacists.
 
