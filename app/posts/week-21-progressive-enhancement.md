@@ -9,7 +9,7 @@ image:
 
 I spent two days with our team in Leeds at the start of this week. It was a great chance to talk through our future roadmap, to have an in-person retro, and to do a bit of collaboration around a whiteboard.
 
-The highlight was a team trip to a local maternity ward to talk to some of the team who are using our service to record the new [RSV vaccinations](https://www.nhs.uk/vaccinations/rsv-vaccine/).
+The highlight was a team trip to a local maternity ward to talk to some of the team who are using our service to record the new [RSV vaccinations](https://www.nhs.uk/vaccinations/rsv-vaccine/) given at 28+ weeks of pregnancy.
 
 Speaking directly to the users of your service is always super valuable, and we came back with lots of useful feedback. The contextual stuff was important too, from seeing the posters on the walls, to the laptops (with tiny screens) they use our service on.
 
