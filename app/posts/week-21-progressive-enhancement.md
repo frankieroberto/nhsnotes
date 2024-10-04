@@ -38,7 +38,7 @@ It’s not yet clear how this applies to NHS services, but we’ve had some good
 
 ## Links
 
-Links this week all revolve around the announcement of [a new panel of technology experts to shape the government's new 'digital centre']:
+Links this week all revolve around the announcement of [a new panel of technology experts to shape the government's new 'digital centre'](https://www.gov.uk/government/news/tech-experts-to-shape-government-digital-vision-to-drive-innovation-and-boost-public-services):
 
 * [Working in the open – digital government in the U.K. in 2024](https://medium.com/@marthalanefox/digital-government-2024-2687912d3ec1) from Martha Lane Fox
 * [Ideas for the new ‘Digital Centre Design Panel’](https://digitalbydefault.com/2024/10/02/ideas-for-the-new-digital-centre-design-panel/) from Jukesie
