@@ -42,6 +42,7 @@ Links this week all revolve around the announcement of [a new panel of technolog
 
 * [Working in the open – digital government in the U.K. in 2024](https://medium.com/@marthalanefox/digital-government-2024-2687912d3ec1) from Martha Lane Fox
 * [Ideas for the new ‘Digital Centre Design Panel’](https://digitalbydefault.com/2024/10/02/ideas-for-the-new-digital-centre-design-panel/) from Jukesie
+* [A future vision for digital gov](https://www.laurayarrow.net/blog/a-future-vision-for-digital-gov) from Laura Yarrow
 
 For what it’s worth, I shared my [ideas for digital public works](https://x-govuk.github.io/posts/digital-public-works-ideas/) back in March.
 
