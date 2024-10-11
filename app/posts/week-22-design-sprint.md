@@ -19,7 +19,7 @@ Day 3 was spent doing in-person collaborative sketching of a new concept for our
 
 > By letting users set up ‘vaccination sessions’, we can save them time overall and when recording individual vaccinations.
 
-The sketches were blue-tacked to an empty wall in the office, where hopefully they’ll remain for a while:
+The sketches were blu-tacked to an empty wall in the office, where hopefully they’ll remain for a while:
 
 ![Photo of a bunch of crude sketches of web pages blue tacked to a whiteboard wall in sequence under the scrawled title of 'Record a vaccination design sprint'](/images/design-sprint-sketches.jpeg)
 
