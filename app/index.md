@@ -21,10 +21,16 @@ related:
           href: https://jiggott.medium.com
         - text: Matt Edgar
           href: https://blog.mattedgar.com
+        - text: Max Marulli
+          href: https://medium.com/@maxmarulli
         - text: Matt Jukes
           href: https://digitalbydefault.com
         - text: Owen Jones
           href: https://owenis.online/pages/blog/
+        - text: Sam Villis
+          href: https://stamanfar.medium.com
+        - text: Simon Wilson
+          href: https://www.officeofwilson.com/author/simon/
         - text: Steve Messer
           href: https://visitmy.website/tag/weeknotes/
         - text: Trilly Chatterjee
