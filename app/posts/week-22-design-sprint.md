@@ -21,7 +21,7 @@ Day 3 was spent doing in-person collaborative sketching of a new concept for our
 
 The sketches were blu-tacked to an empty wall in the office, where hopefully they’ll remain for a while:
 
-![Photo of a bunch of crude sketches of web pages blue tacked to a whiteboard wall in sequence under the scrawled title of 'Record a vaccination design sprint'](/images/design-sprint-sketches.jpeg)
+![Photo of a bunch of crude sketches of web pages blu-tacked to a whiteboard wall in sequence under the scrawled title of 'Record a vaccination design sprint'](/images/design-sprint-sketches.jpeg)
 
 Day 4 was turning these sketches into a digital version that could be tested with some users. My initial inclination was to make a high-fidelity design using the [NHS prototype kit](https://nhsuk-prototype-kit.azurewebsites.net/docs). However another designer on the team suggested using [Balsamiq](https://balsamiq.cloud) so that we could all collaborate on it more easily.
 
