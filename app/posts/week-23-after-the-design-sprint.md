@@ -43,6 +43,12 @@ The product manager Claire Hughes has written about how and why she’s done thi
 
 Here in the NHS there are some public roadmaps, including [for the NHS APP](https://digital.nhs.uk/services/nhs-app/roadmap) and [for NHS.UK](https://digital.nhs.uk/services/nhs.uk/nhs.uk-roadmap-and-strategy) but it’s not something our team has done yet.
 
+## Connecting people
+
+I had some nice feedback this week that I’m a good ‘networker and people connector’.
+
+I’ll take the compliment, but I’m sure there are still dozens of people I’ve not met yet who would be useful to get to know. Something to keep working on!
+
 ## Links
 
 * [What we mean when we say “Be Bold”](https://public.digital/pd-insights/blog/2024/10/what-we-mean-when-we-say-be-bold) from Public Digital is great and suggests that the NHS could pivot to enable patients to continually monitoring some conditions remotely, rather than just digitising existing checkup services
