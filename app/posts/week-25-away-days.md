@@ -33,7 +33,7 @@ A side project over the past few months has been to improve the NHS Prototype Ki
 
 This week we soft-launched a new website for it, now on an official nhs.uk domain: [prototype-kit.service-manual.nhs.uk](https://prototype-kit.service-manual.nhs.uk).
 
-As well as a new illustration (thanks [Paul](https://paulrobertlloyd.com)!), there’s a guide to [switching from the GOV.UK prototype kit](https://prototype-kit.service-manual.nhs.uk/how-tos/switching-from-govuk-prototype-kit) and an [introductory tutorial](https://prototype-kit.service-manual.nhs.uk/how-tos/build-basic-prototype/index) (thanks [Vicky](https://www.vickyteinaki.com) for both!). I’ve also tweaked the installation guides and [Ed](https://www.edwardhorsford.com) has helped with reviews and fixes.
+As well as a new illustration (thanks [Paul](https://paulrobertlloyd.com)!), there’s a guide to [switching from the GOV.UK prototype kit](https://prototype-kit.service-manual.nhs.uk/how-tos/switching-from-govuk-prototype-kit) and an [introductory tutorial](https://prototype-kit.service-manual.nhs.uk/how-tos/build-basic-prototype/index) inspired by the GOV.UK one (thanks [Vicky](https://www.vickyteinaki.com) for both!). I’ve also tweaked the installation guides and [Ed](https://www.edwardhorsford.com) has helped with reviews and fixes.
 
 We’ll be testing it out with colleagues. If you have any feedback, let me know!
 
