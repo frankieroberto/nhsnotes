@@ -3,7 +3,7 @@ title: "Week 25: Away days"
 date: 2024-11-02
 ---
 
-This week was half term so I took the Monday off to take the kids to Legoland. But the rest of the work was busy with work.
+This week was half term so I took Monday off to take the kids to Legoland. But the rest of the work was busy with work.
 
 Tuesday was a team away day in Leeds. The most interesting bit of the day for me was when most of the team visited the excellent accessibility lab set up there, and got to see our service being used with the screen-reader software JAWS. Many of the problems found were already on our backlog, but seeing the issues being demonstrated in person was hugely valuable.
 
@@ -27,7 +27,7 @@ I have however learnt a lot more about the structure and information architectur
 
 ## NHS Prototype Kit
 
-A side project over the past few months has been to improve the NHS Prototype Kit and its documentation, which has lagged a little behind its GOV.UK counterpart.
+A side project over the past few months has been to improve the NHS Prototype Kit and its documentation, which has lagged behind its GOV.UK counterpart.
 
 ![Screenshot of the homepage of the NHS Prototype Kit website. It features the tagline 'Rapidly create HTML prototypes of NHS.UK services' and has an illustration depicting buttons, icons and form elements being assembled onto a screen. The content continues 'Use prototypes to get valuable feedback and insights from user research or the people you work with' and has three main links labelled Get started, How to guides, and Page templates.](/images/nhs-prototype-kit.png)
 
