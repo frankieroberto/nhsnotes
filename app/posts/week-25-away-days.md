@@ -23,7 +23,7 @@ Back in London, on Thursday I was invited last minute to attend an all day works
 
 I’m not sure I was super helpful. It was hard to marry up some of the ideas with the current technical and operational realities.
 
-I have however learnt a lot more about the current structure and information architecture of the NHS App, and some of the ways this might evolve in future.
+I have however learnt a lot more about the structure and information architecture of the NHS App, and some of the ways this might evolve in future.
 
 ## NHS Prototype Kit
 
