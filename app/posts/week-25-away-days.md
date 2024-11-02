@@ -27,7 +27,7 @@ I have however learnt a lot more about the structure and information architectur
 
 ## NHS Prototype Kit
 
-A side project over the past few months has been to slowly improve the NHS Prototype Kit and its documentation, which has lagged a little behind its GOV.UK counterpart.
+A side project over the past few months has been to improve the NHS Prototype Kit and its documentation, which has lagged a little behind its GOV.UK counterpart.
 
 ![Screenshot of the homepage of the NHS Prototype Kit website. It features the tagline 'Rapidly create HTML prototypes of NHS.UK services' and has an illustration depicting buttons, icons and form elements being assembled onto a screen. The content continues 'Use prototypes to get valuable feedback and insights from user research or the people you work with' and has three main links labelled Get started, How to guides, and Page templates.](/images/nhs-prototype-kit.png)
 
