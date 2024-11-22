@@ -11,7 +11,7 @@ This week was dominated by research trips to pharmacies in seaside towns in the 
 
 We visited 10 different pharmacies, speaking to the pharmacists and staff about their experiences giving people the new [RSV vaccine](https://www.nhs.uk/vaccinations/rsv-vaccine/) and using our digital [Record a vaccination service](https://digital.nhs.uk/services/vaccinations-point-of-care/record-a-vaccination-service).
 
-It was hugely informative, and proved the value of doing in-person user research. Not only did we get to speak to people who would likely never have time to take part in a scheduledTeams call, but we also got to see and learn lots about the wider context.
+It was hugely informative, and proved the value of doing in-person user research. Not only did we get to speak to people who would likely never have time to take part in a scheduled Teams call, but we also got to see and learn lots about the wider context.
 
 No digital service exists within a vacuum, and especially not within the NHS. The pharmacists were only too keen to show us the plethora of digital services they’re required to use, each with their own logins, quirks and annoyances.
 
