@@ -13,13 +13,13 @@ There’s also the overarching issue of many of these services not being well jo
 
 We did also find many smaller and more specific issues with our service too, so those all need to be fed back to the team and into backlogs to investigate.
 
-## Two generals problem
+## The Two Generals’ problem
 
 We’ve been exploring some issues reported by users which we think are caused by slow or unreliable internet connections.
 
 In short, the issue is that sometimes web connections can succeed in sending a message, but fail to tell the sender that the message has been received.
 
-It’s known as the [Two generals problem](https://en.wikipedia.org/wiki/Two_Generals'_Problem) and there’s a great [explainer video on YouTube by Tom Scott all about it](https://www.youtube.com/watch?v=IP-rGJKSZ3s).
+It’s known as [The Two Generals’ Problem](https://en.wikipedia.org/wiki/Two_Generals'_Problem) and there’s a great [explainer video on YouTube by Tom Scott all about it](https://www.youtube.com/watch?v=IP-rGJKSZ3s).
 
 Resolving this means both some engineering work, and some design work to better communicate the different states (sending, timed out, errored) that a request can be in.
 
