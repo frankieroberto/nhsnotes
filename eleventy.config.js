@@ -30,6 +30,9 @@ export default function(eleventyConfig) {
         ]
       }
     },
+    icons: {
+      touch: 'https://frankieroberto.github.io/nhsnotes/images/icon.png'
+    },
     feedUrl: 'posts/feed.xml',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
