@@ -1,7 +1,7 @@
-const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
-const rssPlugin = require("@11ty/eleventy-plugin-rss");
+import govukEleventyPlugin from '@x-govuk/govuk-eleventy-plugin'
+import rssPlugin from "@11ty/eleventy-plugin-rss"
 
-module.exports = function(eleventyConfig) {
+export default function(eleventyConfig) {
 
   eleventyConfig.addPlugin(rssPlugin);
 
