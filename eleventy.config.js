@@ -3,7 +3,23 @@ import rssPlugin from "@11ty/eleventy-plugin-rss"
 
 export default function(eleventyConfig) {
 
-  eleventyConfig.addPlugin(rssPlugin);
+  eleventyConfig.addPlugin(rssPlugin, {
+    type: "atom",
+    outputPath: "/posts/feed.xml",
+    collection: {
+      name: "post",
+      limit: 10,
+    },
+    metadata: {
+      language: "en",
+      title: "NHSNotes",
+      subtitle: "Notes on working on NHS digital prevention services",
+      base: "https://frankieroberto.github.io/nhsnotes/",
+      author: {
+        name: "Frankie Roberto"
+      }
+    }
+  })
 
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
