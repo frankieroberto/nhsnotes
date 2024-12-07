@@ -15,7 +15,7 @@ It was a fascinating few hours, speaking to midwives, sonographers and vaccinato
 
 My children are aged 5 and 8, and our experiences of maternity services was that nearly all of it was paper based, with physical binders full of notes.
 
-However, in this unit at least, the process is now mostly full digital and paperless. This transition seems to have yielded lots of benefits but also some issues.
+However, in this unit at least, the process is now mostly paperless. This transition seems to have yielded lots of benefits but also some issues.
 
 The [‘booking appointment’](https://www.nhs.uk/pregnancy/finding-out/your-first-midwife-appointment/) involves spending up to 2 hours filling out a very long digital form which could definitely do with a few usability and content design improvements.
 
