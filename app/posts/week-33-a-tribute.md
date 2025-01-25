@@ -1,5 +1,5 @@
 ---
-title: "Week 33: A tribute"
+title: "Week 34: A tribute"
 date: 2025-01-17
 ---
 
