@@ -1,5 +1,5 @@
 ---
-title: "Week 32: Cold start"
+title: "Week 33: Cold start"
 date: 2025-01-12
 ---
 

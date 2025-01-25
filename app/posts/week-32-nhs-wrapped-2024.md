@@ -1,5 +1,5 @@
 ---
-title: "Week 33: NHS wrapped 2024"
+title: "Week 32: NHS wrapped 2024"
 date: 2024-12-20
 image:
   src: /images/2024-wrapped.png
