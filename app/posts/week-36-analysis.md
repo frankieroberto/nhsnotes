@@ -30,7 +30,7 @@ This is all hypothetical for now as there’s still a lot to do before we get to
 
 There’s also been lots of good conversations this month about initiatives that might cut across our existing service teams.
 
-As in many organisations, these are really hard to achieve as teams all have their own priorities, and thing which has dependencies across teams requires a lot more co-ordination.
+As in many organisations, these are really hard to achieve as teams all have their own priorities, and anything which has dependencies across teams requires a lot more co-ordination.
 
 There’s a delicate balance to be found between giving teams the space to focus on delivery vs taking the time to have a broader view and collaborating to join things up.
 
