@@ -30,9 +30,9 @@ We had a team retro, and one of the many positve post-its on the wall was that a
 
 ## Inner critic
 
-My colleague Georgina Watts has written a great blog post called [How to silence your inner critic enough to write publicly](https://createchange.io/how-to-silence-your-inner-critic-enough-to-write-publicly/).
+My colleague Georgina Watts has written a great blog post called [How to silence your inner critic enough to write publicly](https://createchange.io/how-to-silence-your-inner-critic-enough-to-write-publicly/), based on a session she facilitated at UKGovCamp.
 
-I enjoyed this session at UKGovCamp. It was fascinating to hear the different strategies people employed to get over the fear of publishing - and heartening to see that there were many people who didn’t yet write publicly, but wanted to.
+I attended this session and really enjoyed it. It was fascinating to hear the different strategies people employed to get over the fear of publishing - and heartening to see that there were many people who didn’t yet write publicly, but wanted to.
 
 Even though I’ve been doing these notes for 37 weeks now, it’s still with a little trepidation that I start writing each Friday. Thankfully, the weeknotes format is quite forgiving, and I can remind myself that there’s no need to articulate some amazing insight each week. At least I hope not.
 
