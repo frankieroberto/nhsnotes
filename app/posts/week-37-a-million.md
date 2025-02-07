@@ -20,7 +20,7 @@ Plus a big thanks to everyone who gets their vaccinations. It’s not just an is
 
 ## Team days
 
-We had another of our monthly 2 day team get togethers this week, in Leeds. We’re really found this to be a good rhythm, and the in-person days have definitely helped the team bond.
+We had another of our monthly 2 day team get togethers this week, in Leeds. We’ve really found this to be a good rhythm, and the in-person days have definitely helped the team bond.
 
 The days aren’t overly planned. Anyone can suggest a session that might benefit from the whole team being together. The rest of the time is unstructured, and people will go off into smaller groups.
 
