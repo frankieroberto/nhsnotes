@@ -36,7 +36,7 @@ Big thanks also to [Colin Rotherham](https://www.linkedin.com/in/colinrotherham/
 
 The UK government release an [AI playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html) this week.
 
-I must admit, so far I’ve not really been that interested in all the AI stuff. I can’t tell if that’s because I think it’s over-hyped, or because it was invented after I’m 35 and therefore [against the natural order of things](https://en.wikiquote.org/wiki/Douglas_Adams#:~:text=Anything%20that%20is,order%20of%20things.). Or maybe I’m just too busy.
+I must admit, so far I’ve not really been that interested in all the recent AI large languagde model stuff. I can’t tell if that’s because I think it’s over-hyped, or because it was invented after I’m 35 and therefore [against the natural order of things](https://en.wikiquote.org/wiki/Douglas_Adams#:~:text=Anything%20that%20is,order%20of%20things.). Or maybe I’m just too busy.
 
 I did have a brief skim through the playbook though. One of the examples given in the appendix is the [NHS User research finder](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#nhs-user-research-finder). I’ve had access to this internally and it’s an interesting attempt to tackle a very real problem: finding relevant past user research across different teams.
 
