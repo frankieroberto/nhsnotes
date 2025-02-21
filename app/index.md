@@ -27,6 +27,8 @@ related:
           href: https://medium.com/@maxmarulli
         - text: Matt Jukes
           href: https://digitalbydefault.com
+        - text: Mike Gallagher
+          href: https://mikegallagher.org
         - text: Neil Williams
           href: https://neilojwilliams.net
         - text: Owen Jones
