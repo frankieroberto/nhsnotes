@@ -18,7 +18,7 @@ Whenever we come to this topic it opens up a bit of an existential can of worms,
 
 Non-vaccinations covers anything including non-attendance at a booked appointment, a walk-in patient who has to be turned away for some reason, or someone changing their mind at the last minute.
 
-We have heard some valid use cases for recording this though, including to schedule follow-up actions, to opt patients out from vaccination invitations, or for analysis.
+We have heard some valid reasons for recording this though, including to schedule follow-up actions, to opt patients out from vaccination invitations, or for analysis.
 
 As with many things in the NHS, the question becomes more about where is the best place to record the information, and what happens with the data?
 
