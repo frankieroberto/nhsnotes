@@ -1,6 +1,7 @@
 ---
 title: "Week 31: End of year event"
 date: 2024-12-13
+description: A celebratory gathering. Test and learn.
 image:
   src: /images/in-conversation.jpeg
   alt: "Photo of 4 people sat on stools on a stage in front of a screen saying In conversations with Kate Tarling and Richard Pope"

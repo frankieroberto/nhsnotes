@@ -1,6 +1,7 @@
 ---
 title: "Week 29: Playback"
 date: 2024-11-29
+description: Notes from last week’s research trip, and tackling the Two Generals’ problem.
 ---
 
 After last week’s [research visits to the East of England](/posts/week-28-research-on-sea/), this week we spent a good chunk of time writing up our notes, analysing the key observations, and starting to work out how to present the findings back.

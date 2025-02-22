@@ -1,6 +1,7 @@
 ---
 title: "Week 19: Platformland"
 date: 2024-09-20
+description: Notes on Richard Pope’s new book. Proxy access.
 image:
   src: /images/platformland.jpeg
   alt: "Photo of me on a train reading a book titled 'Platformland: An anatomy of next generation services' by Richard Pope, which has a grid of different shapes in different colours on its cover"

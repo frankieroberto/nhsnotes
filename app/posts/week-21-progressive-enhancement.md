@@ -1,6 +1,7 @@
 ---
 title: "Week 21: Progressive enhancement"
 date: 2024-10-04
+description: Kicking off a design sprint. New guidance on client-side JavaScript.
 image:
   src: /images/gledhow-wing.jpeg
   alt: "Photo of me outside a hospital entrance with a sign saying Gledhow Wing"

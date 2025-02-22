@@ -1,6 +1,7 @@
 ---
 title: "Week 27: Request for change"
 date: 2024-11-15
+description: Releases processes. Decentralisation vs digitation.
 ---
 
 This week I discovered that our use of ‘RFC’ internally means ‘request for change’ and not, as I’ve assumed for months, [request for comments](https://en.wikipedia.org/wiki/Request_for_Comments). It’s used as part of our release process, which I still don’t fully understand.

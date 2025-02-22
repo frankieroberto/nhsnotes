@@ -1,6 +1,7 @@
 ---
 title: "Week 24: Showtime"
 date: 2024-10-25
+description: Showing the thing, end-to-end.
 image:
   src: /images/how-victoria-got-her-vaccination.jpg
   alt: "A graphic depicting an old style black and white movie ornated title card complete with scratches and, in an old font, the title “How Victoria got her vaccination’"

@@ -1,6 +1,7 @@
 ---
 title: "Week 4: Meeting the users"
 date: 2024-05-10
+description: A research trip to meet vaccination staff. A Thoughtful Thursday talk.
 image:
   src: /images/royal-berkshire-hospital.jpeg
   alt: Photo of me standing in front of an NHS sign saying Welcome to the Royal Berkshire Hospital, behind which is an old stone portico with the same name above the columns.

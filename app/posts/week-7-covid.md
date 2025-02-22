@@ -1,6 +1,7 @@
 ---
 title: "Week 7: Covid"
 date: 2024-06-07
+description: Being ill.
 image:
   src: /images/covid.jpeg
   alt: Photo of a positive Covid lateral flow test next to some cold and flu tablets

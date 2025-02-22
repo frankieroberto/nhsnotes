@@ -1,6 +1,7 @@
 ---
 title: "Week 6: Being Human"
 date: 2024-05-17
+description: Notes from a Wellcome Collection exhibition.
 image:
   src: /images/being-human.jpeg
   alt: Photo of me standing in front of a sign saying 'Being Human'

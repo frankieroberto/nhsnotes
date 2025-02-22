@@ -1,6 +1,7 @@
 ---
 title: "Week 11: Change"
 date: 2024-07-05
+description: Cervical screening digital system launch. Functional specifications.
 ---
 
 A change of focus for our team this week, as we’ve wrapped up our pilot and are now focused on preparing for the upcoming winter vaccination campaign.

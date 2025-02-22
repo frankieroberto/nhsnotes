@@ -1,6 +1,7 @@
 ---
 title: "Week 9: Changing lightbulbs"
 date: 2024-06-21
+description: Deciding which rules to enforce in services. Learning Figma.
 image:
   src: /images/lightbulb.jpeg
   alt: Photo of a lightbulb recessed into ceiling

@@ -1,6 +1,7 @@
 ---
 title: "Week 30: There’s always a spreadsheet"
 date: 2024-12-06
+description: A research trip to a maternity unit.
 image:
   src: /images/maternity-ultrasound-unit.jpeg
   alt: "Photo of a maternity ultrasound machine in a small room next to an empty blue reclining seat with a pillow"

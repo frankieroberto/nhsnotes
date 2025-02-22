@@ -1,6 +1,7 @@
 ---
 title: "Week 13: The RSV vaccine"
 date: 2024-07-19
+description: Learning from the pilot. CrowdStrike.
 image:
   src: /images/health-centre.jpeg
   alt: Photo of me in a health centre

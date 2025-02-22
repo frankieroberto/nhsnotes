@@ -1,6 +1,7 @@
 ---
 title: "Week 35: Shake up"
 date: 2025-01-24
+description: The state of digital government and a blueprint for change
 ---
 
 A short work week for me, as I had a few days off, but a busy news week for digital government.

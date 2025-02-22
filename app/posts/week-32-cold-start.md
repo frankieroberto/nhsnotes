@@ -1,6 +1,7 @@
 ---
 title: "Week 33: Cold start"
 date: 2025-01-12
+description: Back to work after a Christmas break.
 ---
 
 First week back for me after a 2 week Christmas break. Weather was very cold (and the office too), with some frosty commutes. I needed several coffees to warm up and help jump start me back into work mode.

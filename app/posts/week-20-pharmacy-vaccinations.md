@@ -1,6 +1,7 @@
 ---
 title: "Week 20: Pharmacy vaccinations"
 date: 2024-09-27
+description: Production code. Service manual research. School flu immunisations.
 ---
 
 The biggest news for us this week was that it is now possible for 75 to 79 year olds to [book an RSV vaccination at a pharmacy](https://www.nhs.uk/nhs-services/pharmacies/book-or-cancel-an-rsv-vaccination-at-a-pharmacy/).

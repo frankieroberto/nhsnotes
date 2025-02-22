@@ -1,6 +1,7 @@
 ---
 title: "Week 34: A tribute"
 date: 2025-01-17
+description: In memory of Vicky Teinaki
 ---
 
 This week I’d like to pay tribute to fellow designer [Vicky Teinaki](http://vickyteinaki.com), a friend and colleague at the NHS, who has sadly passed away.

@@ -1,6 +1,7 @@
 ---
 title: "Week 8: Recovery"
 date: 2024-06-14
+description: Getting better. NHS Design System release. The Green Book.
 ---
 
 I’m still recovering from [last week’s Covid](/posts/week-7-covid/). It’s annoying to be mostly but not quite fully better. My lungs feel like they’re not yet back at maximum capacity.

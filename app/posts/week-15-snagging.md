@@ -1,6 +1,7 @@
 ---
 title: "Week 15: Snagging"
 date: 2024-08-23
+description: User guides. Date pickers.
 ---
 
 Most of my time this week has been taken up with helping to review the new functionality of our service ahead of its imminent September launch.

@@ -1,6 +1,7 @@
 ---
 title: "Holidaynotes: A stitch in the head"
 date: 2024-08-12
+description: A holiday incident.
 image:
   src: /images/medical-centre.jpeg
   alt: Photo of me standing in front of a building with the lettering 'MEDIC' above it

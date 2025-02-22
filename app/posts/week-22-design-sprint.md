@@ -1,6 +1,7 @@
 ---
 title: "Week 22: Design sprint"
 date: 2024-10-11
+description: A 5 day run at redesigning a core bit of the service.
 image:
   src: /images/me-outside-an-office.jpeg
   alt: "Photo of me outside a shiny glass office building labelled 10 Bressenden Place"

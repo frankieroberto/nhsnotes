@@ -1,6 +1,7 @@
 ---
 title: "Week 5: Interesting"
 date: 2024-05-17
+description: Getting access to tools. Org charts vs webs. Notes from a conference.
 image:
   src: /images/thank-you-nhs.jpeg
   alt: Photo of me standing in front of a colourful child’s drawing of rainbow with the word ‘Thank you NHS!!’ printed on some hoarding at a train station
@@ -23,7 +24,7 @@ I’m slowly gaining access to some essential tools. Some things have taken long
 
 I managed add Adobe Analytics to our guidance website, thanks to a helpful internal guide. I’ve not used this before, so I’m interested to see how useful it’ll be (if you’ve got any experience of it, let me know!).
 
-I’ve also been talking to our development team about aligning more closely to the [NHS design system layout](https://service-manual.nhs.uk/design-system/styles/layout) and [header](https://service-manual.nhs.uk/design-system/components/header). Being able to put together a quick working demo of this using the [NHS prototype kit](https://nhsuk-prototype-kit.azurewebsites.net/docs) really helped here.
+I’ve also been talking to our development team about aligning more closely to the [NHS design system layout](https://service-manual.nhs.uk/design-system/styles/layout) and [header](https://service-manual.nhs.uk/design-system/components/header). Being able to put together a quick working demo of this using the [NHS prototype kit](https://prototype-kit.service-manual.nhs.uk) really helped here.
 
 ## Org charts vs webs
 

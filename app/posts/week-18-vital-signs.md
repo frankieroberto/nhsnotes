@@ -1,6 +1,7 @@
 ---
 title: "Week 18: Vital signs"
 date: 2024-09-13
+description: Publication of the independent investigation of the NHS.
 ---
 
 Lord Darzi’s [independent investigation of the NHS](https://www.gov.uk/government/publications/independent-investigation-of-the-nhs-in-england) was published this week.

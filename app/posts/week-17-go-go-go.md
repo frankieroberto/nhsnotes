@@ -1,6 +1,7 @@
 ---
 title: "Week 17: Go, go, go"
 date: 2024-09-06
+description: Launch of the new RSV vaccine. Design System Day. It’s ok poster.
 image:
   src: /images/st-georges-hall.jpeg
   alt: Photo of me stood outside a grand old classical building with columns

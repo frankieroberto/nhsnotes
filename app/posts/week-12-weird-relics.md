@@ -1,6 +1,7 @@
 ---
 title: "Week 12: Weird relic from an earlier time"
 date: 2024-07-12
+description: Data export interfaces. New government energy.
 ---
 
 Lots goings on this week, both in micro with the work on my project and in macro with all the wider government stuff.

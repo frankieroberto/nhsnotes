@@ -1,6 +1,7 @@
 ---
 title: "Week 14: Back to work"
 date: 2024-08-16
+description: Doing demos. Using the NHS Prototype Kit. Receiving NHS App notifications.
 ---
 
 I returned to work this week after a two-and-a-bit-week holiday, which was very refreshing (apart from [the one little incident](/posts/holidaynotes-stich-in-the-head/)).
@@ -21,7 +22,7 @@ Of course, the real test is when users actually start using the service themselv
 
 ## NHS Prototype Kit
 
-I’ve been using the [NHS Prototype Kit](https://nhsuk-prototype-kit.azurewebsites.net/docs) more and more.
+I’ve been using the [NHS Prototype Kit](https://prototype-kit.service-manual.nhs.uk) more and more.
 
 Having prototypes that people can view in a browser is proving to be useful for demos (where navigating Figma can be fiddly), and for developers implementing designs.
 

@@ -1,6 +1,7 @@
 ---
 title: "Week 3: Office days"
 date: 2024-05-03
+description: The benefits of being in the office.
 image:
   src: /images/working-in-the-open.jpeg
   alt: Photo of a projector screen showing a slide with the text “Joining up teams through working in the open. Working in the open is not just about demonstrating progress, but also talking openly about mistakes, changes, and things you’ve learnt. It’s also about enabling good governance and assurance. It gives colleagues and stakesholders a window onto your work that drives up quality, helps unblock, and manages your dependenceis. Work in the open by being open about the work.”

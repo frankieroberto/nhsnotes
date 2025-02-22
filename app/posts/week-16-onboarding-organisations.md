@@ -1,6 +1,7 @@
 ---
 title: "Week 16: Onboarding organisations"
 date: 2024-08-30
+description: Registers and autocompletes. GOV.UK service navigation.
 ---
 
 Things started to get real this week, as hundreds of NHS organisations have been onboarding to our service ahead of the start of the winter vaccination campaign.

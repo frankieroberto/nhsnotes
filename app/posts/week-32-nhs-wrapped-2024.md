@@ -1,6 +1,7 @@
 ---
 title: "Week 32: NHS wrapped 2024"
 date: 2024-12-20
+description: A summary of the year. With stats.
 image:
   src: /images/2024-wrapped.png
   alt: "Graphic with 4 stickers with the texts Digital prevention services, Sickness to prevention, Work in the open, be bold"

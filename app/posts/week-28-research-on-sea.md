@@ -1,6 +1,7 @@
 ---
 title: "Week 28: Research on sea"
 date: 2024-11-22
+description: Visiting pharamcies in the East of England.
 image:
   src: /images/frinton-on-sea.jpeg
   alt: "Photo of me in front of a station sign saying 'Frinton on sea'"

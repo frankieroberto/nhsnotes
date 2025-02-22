@@ -1,6 +1,7 @@
 ---
 title: "Week 23: After the design sprint"
 date: 2024-10-19
+description: Showing and telling. Service catalogues. Public roadmaps.
 ---
 
 On Monday this week we concluded up [our design sprint](/posts/week-22-design-sprint/) with 3 testing sessions with NHS staff members working for vaccination units.

@@ -1,6 +1,7 @@
 ---
 title: "Week 25: Away days"
 date: 2024-11-02
+description: A team day in Leeds. A workshop. NHS Prototype kit.
 ---
 
 This week was half term so I took Monday off to take the kids to Legoland. But the rest of the work was busy with work.

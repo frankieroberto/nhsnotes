@@ -1,6 +1,7 @@
 ---
 title: "Week 26: Commuting"
 date: 2024-11-08
+description: Design debt and releases cadences.
 image:
   src: /images/nhs-lanyard.jpeg
   alt: "Photo of me smiling with a blue NHS branded lanyard around my neck"
