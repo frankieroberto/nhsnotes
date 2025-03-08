@@ -33,6 +33,8 @@ related:
           href: https://neilojwilliams.net
         - text: Owen Jones
           href: https://owenis.online/pages/blog/
+        - text: Ralph Hawkins
+          href: https://ralphhawkins.co.uk
         - text: Sam Villis
           href: https://stamanfar.medium.com
         - text: Simon Wilson
