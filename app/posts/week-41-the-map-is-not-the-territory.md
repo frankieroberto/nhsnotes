@@ -20,6 +20,8 @@ We had some user research sessions this week where, amongst other things, we tes
 
 With our product being updated frequently, and those changes varying from minor tweaks to whole new features, there’s no one-size-fits-all pattern for this.
 
+![Screenshot of an interface with a 'NEW' label above a form field labelled 'Pack size'](/images/new-pack-size.png)
+
 We’ve designed a range of options, from small 'NEW' labels in context to an interruption page on logging in, and some options in between. We’ve also considering a page listing recent changes, and how we could use other channels like email.
 
 In the research we had users tell us that they like knowing about change, but also quite often ignoring the messages on screen about them.
