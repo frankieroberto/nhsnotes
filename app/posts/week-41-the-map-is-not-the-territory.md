@@ -41,7 +41,7 @@ Details of how to sign up to each session will be published soon.
 ## Links
 
 * My colleague Ralph has started weeknoting too! His first post, [5 months at NHS England](https://ralphhawkins.co.uk/posts/weeknotes/2025-02-28-5-months-at-nhse/) is a great intro
-* [Formerly anti-vax parents on how they changed their minds: ‘I really made a mistake’](https://www.theguardian.com/global/2025/feb/27/how-anti-vax-parents-changed-their-minds) in the Guardian
+* [Article about attitudes to vaccinations](https://www.theguardian.com/global/2025/feb/27/how-anti-vax-parents-changed-their-minds) in the Guardian
 * [Visualising modern digital government](https://gds.blog.gov.uk/2025/03/07/visualising-modern-digital-government/) from the Government Digital Service
 * [Interview with Martha Lane Fox](https://www.theguardian.com/media/2025/mar/08/musk-hes-horrendous-martha-lane-fox-on-diversity-tech-bros-and-international-womens-day) in the Guardian
 * [2025/26 GP contract: what will it mean for England’s practices?](https://www.pulsetoday.co.uk/analysis/2025-26-contract/2025-26-gp-contract-what-will-it-mean-for-englands-practices/) from Pulse
