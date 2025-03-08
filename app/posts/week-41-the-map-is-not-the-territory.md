@@ -1,5 +1,5 @@
 ---
-title: "Week 44: The map is not the territory"
+title: "Week 41: The map is not the territory"
 date: 2025-03-08
 description: Communicating product changes. Services Week.
 image:
