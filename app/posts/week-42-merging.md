@@ -10,7 +10,7 @@ image:
 
 This week we had the news that [NHS England will be abolished](https://www.gov.uk/government/news/worlds-largest-quango-scrapped-under-reforms-to-put-patients-first), with its functions brought back into the Department of Health and Social Care (DHSC).
 
-I don’t much to say on that, except to offer sympathy and support for my colleagues facing uncertainty.
+I don’t have much to say on that, except to offer sympathy and support for my colleagues facing uncertainty.
 
 ## Staff vaccination appointments
 
