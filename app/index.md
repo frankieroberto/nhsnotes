@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: collection
-title: Notes on working on NHS digital prevention services
+title: Notes from working on NHS digital prevention services
 description: From Frankie Roberto
 pagination:
   data: collections.post

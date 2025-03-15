@@ -9,7 +9,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
       logotype: {
-        text: 'NHSnotes'
+        text: 'NHS notes'
       },
       productName: "",
       organisationName: "Frankie Roberto"
