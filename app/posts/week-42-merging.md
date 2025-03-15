@@ -14,9 +14,9 @@ I don’t have much to say on that, except to offer sympathy and support for my 
 
 ## Staff vaccination appointments
 
-I went out with some of my team to visit some of our users in Kent this week. We were there to talk about how they manage staff vaccination appointments.
+I went out with some of my team to visit some of our users in Kent this week, out in a nondescript NHS building in Ashford (photo above).
 
-Every year, hundreds of thousands of frontline healthcare workers are [offered flu and COVID-19 vaccinations](https://www.england.nhs.uk/long-read/flu-and-covid-19-vaccinations-for-eligible-frontline-health-and-social-care-staff-2/), and this takes a lot of organising.
+We were there to talk about how they manage staff vaccination appointments. Every year, hundreds of thousands of frontline healthcare workers are [offered flu and COVID-19 vaccinations](https://www.england.nhs.uk/long-read/flu-and-covid-19-vaccinations-for-eligible-frontline-health-and-social-care-staff-2/), and this takes a lot of organising.
 
 NHS Trusts use a variety of different booking systems for their staff vaccinations, including some commercial services, as well as self-built platforms.
 
