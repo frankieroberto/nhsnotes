@@ -1,7 +1,7 @@
 ---
 title: "Week 43: Services Week"
 date: 2025-03-21
-description: Staff vaccination appointments. User feedback. 60 seconds with me.
+description: A sea of secondary care. Doing, not mapping. GOV·UK brand refresh.
 ---
 
 I look back on this week through a fog of sickness. I wasn’t ill enough to not be able to work, but ill enough to be avoiding the office and working from home surrounded by throat sweets and tissues. Somehow my symptoms seemed to track the weather, and so as we swing from crazily cold to pleasantly warm, I’m thankfully feeling a lot better.
