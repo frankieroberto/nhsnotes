@@ -28,7 +28,7 @@ A bold strategy, and the team is still on a journey with it, but I wish it well.
 
 Like many of those of those on the call, I can offer a mea culpa here, as I’ve been involved in a couple of high-fidelity map-all-the-things projects which seemed significant at the time, but produced artefacts which quickly dated and were never looked at again.
 
-Sometimes the process itself might be valuable – maybe the real benefit of service mapping is the friends you make along the way? And other times being able to produce a ridiculously complicated map might help convince key stakeholders that the status quo is unsustainable. But other times, the workshops and design activity to produce a map can end up being busywork.
+Sometimes the process itself might be valuable – maybe the real benefit of service mapping is the friends you make along the way? And other times being able to produce a ridiculously complicated map might help convince key stakeholders that the status quo is unsustainable. But there can also be times where the workshops and design activity to produce a map can end up being busywork.
 
 Sarah also commented that she loves a memo over a map, and Ralph suggested that perhaps prose documents are easier to critique and collaborate on.
 
