@@ -18,7 +18,9 @@ Secondary care, for those who aren’t aware (and I wasn’t 100% on this), comp
 
 Mike pointed out that to most patients, their mental model of the NHS is their GP, and then everything else. Whereas the reality is that the ‘everything else’ is a mêlée of organisations comprising regions, integrated care boards (ICBs), trusts and a whole bunch of other organisations. And even GPs are grouped into primary care networks (PCNs).
 
-In this landscape, data is scattered, local organisations do their own thing, and ‘policy levers’ are largely missing. However the NHS APP team, via the ‘wayfinder’ project, has a strategy of hoovering up appointment data so that patients can view it all together in the app, and then handing over to localised patient engagement portals (PEPs) for more complicated interactions.
+In this landscape, data is scattered, local organisations do their own thing, and ‘policy levers’ are largely missing. 
+
+The NHS App team, via the ‘wayfinder’ project, has a strategy of hoovering up appointment data so that patients can view it all together in the app, and then handing over to localised patient engagement portals (PEPs) for more complicated interactions.
 
 A bold strategy, and the team is still on a journey with it, but I wish it well.
 
