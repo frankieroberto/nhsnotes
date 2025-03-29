@@ -1,7 +1,7 @@
 ---
 title: "Week 44: Principles"
 date: 2025-03-28
-description: How design principles get decided.
+description: How teams decide theur principles.
 ---
 
 We had an extended senior leadership team (ESLT) get-together in Leeds in this week. As with our [previous event](/posts/week-22-design-sprint/), it was a great opportunity to catch up with others from the wider programme.
