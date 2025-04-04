@@ -14,15 +14,15 @@ So I thought I’d share some observations and reflections from being one year i
 
 In no particular order...
 
-The COVID-19 pandemic has cast a long shadow. Within vaccinations, there are still a lot of questions I ask where the answer is “we’re not sure, it was set up that way in a hurry”. Documentation probably exists, but is often not easily found.
+The COVID-19 pandemic has cast a long shadow. Within vaccinations, there are still a lot of questions I ask where the answer is “we’re not sure, it was set up that way in a hurry”. Documentation probably exists, but is rarely easily to find.
 
-NHS frontline staff are absolutely dedicated and full of experience and wisdom, yet often have little influence over their digital tools and environment.
+NHS frontline staff are absolutely dedicated and full of experience and wisdom, yet have little influence over their digital tools and environment.
 
 Face to face time in physical offices has more intangible benefits than you can put your finger on.
 
 If you tell someone you work for the NHS you’ll immediately get some personal stories of good and bad experiences. This can be tiring, but the stories are worth listening to.
 
-Acronyms are everywhere within the NHS, and often not explained. They’re overwhelming for new joiners. I have to remind myself to remember to keep explaining them, but I do slip up.
+Acronyms are everywhere within the NHS, and usually not explained. They’re overwhelming for new joiners. I have to remind myself to remember to keep explaining them, but I do slip up.
 
 No one has a complete mental picture of how the NHS works, including those who work there. It’s too complicated and changes too frequently for that.
 
@@ -40,7 +40,7 @@ The NHS has an odd relationship with commercial software suppliers. Mike [summed
 
 Having a great leadership is genuinely inspiring. Pep talks work.
 
-People matter - having good, experienced, thoughtful people in teams counts for a lot. And luckily we have plenty of them.
+People matter – having good, experienced, thoughtful people in teams counts for a lot. And luckily we have plenty of them.
 
 ---
 
