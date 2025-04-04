@@ -6,7 +6,7 @@ description: Observations and reflections from my first year.
 
 This week the NHS Digital prevention service portfolio celebrated its first birthday! (Previously, the digital programmes for vaccinations and screening had been managed separately).
 
-It’s also coincidentally been one year since I [joined the NHS](/nhsnotes/posts/introduction/).
+It’s also coincidentally been one year since I [joined the NHS](/posts/introduction/).
 
 So I thought I’d share some observations and reflections from being one year in.
 
