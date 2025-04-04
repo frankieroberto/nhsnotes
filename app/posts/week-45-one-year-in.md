@@ -36,7 +36,7 @@ Vaccinations are an amazing altruistic, social act - yet too often framed in ind
 
 Working in healthcare can make you paranoid about your own health.
 
-The NHS has an odd relationship with commercial software suppliers. Duopoloies abound. Mike [summed this up well](https://mikegallagher.org/weeknote-wc-24-march-2025/) last week.
+The NHS has an odd relationship with commercial software suppliers. Mike [summed this up well](https://mikegallagher.org/weeknote-wc-24-march-2025/) last week.
 
 Having a great leadership is genuinely inspiring. Pep talks work.
 
