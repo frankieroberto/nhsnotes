@@ -32,7 +32,7 @@ The best strategy is [still delivery](https://gds.blog.gov.uk/2013/01/06/digital
 
 The NHS brand is highly respected yet very loosely guarded. It’s used all over the place, including by independent organisations and suppliers. Seems to work though.
 
-Vaccinations are an amazing altruistic, social act - yet too often framed in individualistic terms.
+Vaccinations are an amazing altruistic, social act – yet too often framed in individualistic terms.
 
 Working in healthcare can make you paranoid about your own health.
 
