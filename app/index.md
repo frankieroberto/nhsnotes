@@ -15,6 +15,8 @@ related:
           href: https://www.benjystanton.co.uk/blog/
         - text: Chris Ballantine‑Thomas
           href: https://chrisballantinethomas.co.uk/notes/
+        - text: Irina Pencheva
+          href: https://irinapencheva.com
         - text: Imogen Levy
           href: https://teppie-ucd.medium.com
         - text: Giles Turnbull
