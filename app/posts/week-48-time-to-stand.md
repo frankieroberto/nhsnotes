@@ -41,6 +41,7 @@ Finally, I note in the Health app that you can log medications, particularly any
 
 ## Links
 
+* [Could AI convert all the PDF forms on GOV.UK into web forms?](https://www.timpaul.co.uk/posts/could-ai-convert-all-the-pdf-forms-on-gov-uk-into-web-forms/) from Tim Paul risks an AI question. Does it break Betteridge's law of headlines? Read it to find out.
 * GDS have published new guidance has been published on [Using commercial-off-the-shelf (COTS) products and services](https://www.gov.uk/service-manual/technology/commercial-off-the-shelf-products-and-services). The main point is that they should meet the same accessibility and usability standards as everything else. (They often don’t)
 * DHSC have announced some NHS App stats updates in [Major NHS App expansion cuts waiting times](https://www.gov.uk/government/news/major-nhs-app-expansion-cuts-waiting-times). Incidentally the app team have this week launched an ‘add to calendar’ feature for upcoming appointments, which should help people like me who are reliant on digital calendars to remember anything.
 * There’s also been a press release about the Cancer 360 tool, which I’d not heard of before: [Government’s tech reform to transform cancer diagnosis](https://www.gov.uk/government/news/governments-tech-reform-to-transform-cancer-diagnosis). Will try and see if I can track down a demo or screenshots of this.
