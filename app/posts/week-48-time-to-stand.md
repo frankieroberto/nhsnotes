@@ -1,6 +1,6 @@
 ---
 title: "Week 48: Time to stand"
-date: 2025-5-04
+date: 2025-05-04
 description: Platformland principles. Smart watches and healthcare.
 ---
 
