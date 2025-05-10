@@ -6,7 +6,7 @@ description: Aggregation. NHS prototype kit updates.
 
 Another 4 day week with a lot crammed into it.
 
-I and Anna, the content designer in our team, had earmarked one of the days for in-person collaboration. We added an event in our Outlook calendars titled “Get stuff done” and rejected any other meeting requests. It largely worked, and we made some good progress.
+Ann, the content designer in our team, and I had earmarked one of the days for in-person collaboration. We added an event in our Outlook calendars titled “Get stuff done” and rejected any other meeting requests. It largely worked, and we made some good progress.
 
 I really love the process of huddling around a laptop, trying out words and ideas without being precious, continually tweaking and changing them until we reach a consensus of it being good enough to test. More of that.
 
