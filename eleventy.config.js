@@ -1,4 +1,4 @@
-import govukEleventyPlugin from '@x-govuk/govuk-eleventy-plugin'
+import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin'
 import rssPlugin from "@11ty/eleventy-plugin-rss"
 
 export default function(eleventyConfig) {
@@ -52,8 +52,7 @@ export default function(eleventyConfig) {
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
-      input: 'app',
-      layouts: '../node_modules/@x-govuk/govuk-eleventy-plugin/layouts'
+      input: 'app'
     },
     pathPrefix: process.env.GITHUB_ACTIONS ? '/nhsnotes/' : '/'
   }
