@@ -35,6 +35,7 @@ export default function(eleventyConfig) {
       shortcut: false,
       mask: false
     },
+    stylesheets: ['/assets/styles.css'],
     feedUrl: 'posts/feed.xml',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
