@@ -37,7 +37,7 @@ export default function(eleventyConfig) {
     },
     stylesheets: ['/assets/styles.css'],
     feedUrl: 'posts/feed.xml',
-    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
+    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/'
   })
 
   // Collections
