@@ -37,7 +37,7 @@ export default function(eleventyConfig) {
     },
     stylesheets: ['/assets/styles.css'],
     feedUrl: 'posts/feed.xml',
-    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/'
+    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
 
   // Collections
@@ -55,6 +55,6 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS ? '/nhsnotes/' : '/'
+    pathPrefix: process.env.GITHUB_ACTIONS ? '/' : '/'
   }
 };
