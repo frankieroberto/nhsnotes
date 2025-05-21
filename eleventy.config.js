@@ -1,4 +1,4 @@
-import govukEleventyPlugin from '@x-govuk/govuk-eleventy-plugin'
+import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin'
 import rssPlugin from "@11ty/eleventy-plugin-rss"
 
 export default function(eleventyConfig) {
@@ -35,6 +35,7 @@ export default function(eleventyConfig) {
       shortcut: false,
       mask: false
     },
+    stylesheets: ['/assets/styles.css'],
     feedUrl: 'posts/feed.xml',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
@@ -52,8 +53,7 @@ export default function(eleventyConfig) {
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
-      input: 'app',
-      layouts: '../node_modules/@x-govuk/govuk-eleventy-plugin/layouts'
+      input: 'app'
     },
     pathPrefix: process.env.GITHUB_ACTIONS ? '/nhsnotes/' : '/'
   }
