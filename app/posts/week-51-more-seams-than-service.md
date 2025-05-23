@@ -20,9 +20,9 @@ We have plenty of seams within vaccination digital services too. Some vaccinator
 
 ## X·GOVUK rebrand
 
-[X·GOVUK](https://x-govuk.github.io) is an unofficial cross-government community I co-founded, where digital folk can collaborate on tools and projects that span government organisations but don’t otherwise have a home.
+[X-GOVUK](https://x-govuk.github.io) is an unofficial cross-government community I co-founded, where digital folk can collaborate on tools and projects that span government organisations but don’t otherwise have a home.
 
-![Screenshot of the X·GOVUK homepage](/images/x-govuk-rebrand.png )
+![Screenshot of the X-GOVUK homepage](/images/x-govuk-rebrand.png )
 
 This week it got a small rebrand (thanks [Paul](https://paulrobertlloyd.com)!), taking a cue from the upcoming GOV.UK rebrand. Blue is the new black. Interpunct’s not dead.
 
