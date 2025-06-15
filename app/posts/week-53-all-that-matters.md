@@ -34,7 +34,7 @@ I’ve been vaguely aware that Chris has been campaigning for the national guide
 
 [Julia Harrison](https://public.digital/about-pd/our-people/consultant/julia-harrison) from Public digital was the latest in our line up of internal Thoughtful Thursday talks. She gave us a great and thoughtful presentation about leading teams of smart people. It covered a lot of ground: vision, autonomy, mastery, purpose, strategy, principles, OKRs and more, so I won’t even try to summarise it here.
 
-I still consider myself primarily a practitioner, but [my role](/nhsnotes/posts/week-41-the-map-is-not-the-territory/) does include leadership, so I’ve been thinking about how best to combine the two.
+I still consider myself primarily a practitioner, but [my role](/posts/week-41-the-map-is-not-the-territory/) does include leadership, so I’ve been thinking about how best to combine the two.
 
 One thing Julia mentioned was modelling good practice and behaviour, and ‘owning up when you screw up’ so others can not be afraid to do the same. I think I do ok at that, although I’d like to write more about some of our assumptions which have turned out to be wrong.
 
