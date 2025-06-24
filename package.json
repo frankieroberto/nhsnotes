@@ -12,7 +12,7 @@
     "start": "eleventy --serve --quiet"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.1",
+    "@11ty/eleventy": "^3.1.2",
     "@x-govuk/govuk-eleventy-plugin": "^7.0.1"
   },
   "engines": {
