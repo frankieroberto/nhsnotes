@@ -18,7 +18,7 @@ I’ve not been involved at all, except to watch from afar, and to update [scree
 
 ![Screenshot of the new NHS Digital prevention services website](/images/digital-prevention-services.png)
 
-We launched a new homepage for the [NHS Digital prevention services portfolio](http://digital-prevention-services.nhs.uk) this week.
+We launched a new homepage for the [NHS Digital prevention services portfolio](https://www.digital-prevention-services.nhs.uk) this week.
 
 This is aimed at internal and external stakeholders (and there are many), to help communicate what the portfolio is all about and what we are up to.
 Important in a time of flux.
