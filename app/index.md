@@ -45,6 +45,8 @@ related:
           href: https://visitmy.website/tag/weeknotes/
         - text: Trilly Chatterjee
           href: https://medium.com/@trillyc
+        - text: Veronika Jermolina
+          href: https://medium.com/@veroj
         - text: Vicky Teinaki
           href: https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091
 ---
