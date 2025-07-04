@@ -39,7 +39,7 @@ I can’t help but compare the NHS App and the GOV.UK App. Both have to grapple 
 
 Despite being a lover of the Web and it all stands for, I do like apps too. To me they are complementary things with different benefits and conventions. They should each play to the strengths of the different platforms. The worst spot is the uncanny valley between them: websites that try to emulate apps (hello React), and apps that are mainly web views in disguise.
 
-It’s been 12 years since [Tom Loosemore wasn’t ‘appy](https://gds.blog.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/) and I’d love to know what he thinks of it all now.
+It’s been 12 years since [Tom Loosemore wasn’t ‘appy](https://gds.blog.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/) and I’d love to know what he thinks of it all now. James Higgott [wrote about this last year](https://jiggott.medium.com/appy-now-4389c24997a6) too.
 
 ## NHS Prototype kit updates
 
