@@ -36,6 +36,7 @@ export default function(eleventyConfig) {
     themeColor: '#005eb8',
     stylesheets: ['/assets/styles.css'],
     feedUrl: 'posts/feed.xml',
+    titleSuffix: 'NHS notes from Frankie Roberto',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
 
