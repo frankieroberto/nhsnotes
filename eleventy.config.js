@@ -18,6 +18,7 @@ export default function(eleventyConfig) {
       contentLicence: {
         text: "This is a personal blog. Views expressed are not necessarily those of the NHS."
       },
+      logo: false,
       meta: {
         items: [
           {
