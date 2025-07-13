@@ -32,7 +32,7 @@ I enjoyed a demonstration of the [Manage breast screening service](https://desig
 
 ## Links
 
-* [Week 0: To start or not to start](https://medium.com/@micolartom/week-0-to-start-or-not-to-start-46b6fe5f54c6) from Micol Artem, our Lead User Research for vaccination digital services, who has joined us in the weeknotes club
+* [Week 0: To start or not to start](https://medium.com/@micolartom/week-0-to-start-or-not-to-start-46b6fe5f54c6) from Micol Artom, our Lead User Research for vaccination digital services, who has joined us in the weeknotes club
 * [Review of patient safety across the health and care landscape](https://www.gov.uk/government/publications/review-of-patient-safety-across-the-health-and-care-landscape) from Penny Dash is a new independent review. I’ve not read it all yet, but it contains a focus on patient experience which sounds promising.
 * [When to start small and do it for real](https://waysofdoing.rpp.works/notes/types-of-problem-start-small-do-it-for-real) is a post on a new blog from Richard Pope about when to start by doing it for real, as opposed to relying on user research using prototypes and mockups.
 * [How to save bureaucracy from itself](https://medium.com/@jamestplunkett/how-to-save-bureaucracy-from-itself-804957a85e44) from James Plunkett contains 7 practical ideas for fixing the system from within
