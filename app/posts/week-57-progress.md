@@ -28,7 +28,7 @@ As I’ve [previously mentioned](/posts/week-45-one-year-in/), I find hospitals 
 
 The afternoon of the event gave us a chance to see demos and talks from 5 of the product teams.
 
-I enjoyed a demonstration of the Manage breast screening service which used role play and a flip-board to show both how the current paper-based process works, and how the alpha designs for the new digital service could work. It’s a huge challenge, as the appointments are short and paper can be fast and flexible (but also poses large financial and logistical costs) - so the digital service needs to be as fast or faster. We have similar challenges with Record a vaccination, and so I made a mental note that our teams should start swapping notes and stories from research more often.
+I enjoyed a demonstration of the [Manage breast screening service](https://design-history.prevention-services.nhs.uk/manage-breast-screening/) which used role play and a flip-board to show both how the current paper-based process works, and how the alpha designs for the new digital service could work. It’s a huge challenge, as the appointments are short and paper can be fast and flexible (but also poses large financial and logistical costs) - so the digital service needs to be as fast or faster. We have similar challenges with Record a vaccination, and so I made a mental note that our teams should start swapping notes and stories from research more often.
 
 ## Links
 
@@ -37,7 +37,7 @@ I enjoyed a demonstration of the Manage breast screening service which used role
 * [When to start small and do it for real](https://waysofdoing.rpp.works/notes/types-of-problem-start-small-do-it-for-real) is a post on a new blog from Richard Pope about when to start by doing it for real, as opposed to relying on user research using prototypes and mockups.
 * [How to save bureaucracy from itself](https://medium.com/@jamestplunkett/how-to-save-bureaucracy-from-itself-804957a85e44) from James Plunkett contains 7 practical ideas for fixing the system from within
 * [Leading the shift from analogue to digital: the art of the possible](https://podcasts.apple.com/gb/podcast/the-provider-podcast/id1478614625?i=1000716616916) is a new podcast episode featuring Tom Loosemore talking about levers to push the digital agenda forward.
-
+* [The tangled undergrowth of complexity](https://lizlutgendorff.substack.com/p/the-tangled-undergrowth-of-complexity) from Liz Lutgendorff is a great account of the unfathomable complexity of working in the NHS
 ---
 
 Hope you’ve all endured the heatwave ok. My tactic this weekend was to pour water on my head at regular intervals.
