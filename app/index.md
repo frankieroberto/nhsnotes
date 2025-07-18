@@ -29,6 +29,8 @@ related:
           href: https://medium.com/@maxmarulli
         - text: Matt Jukes
           href: https://digitalbydefault.com
+        - text: Micol Artom
+          href: https://medium.com/@micolartom
         - text: Mike Gallagher
           href: https://mikegallagher.org
         - text: Neil Williams
@@ -39,6 +41,8 @@ related:
           href: https://ralphhawkins.co.uk
         - text: Sam Villis
           href: https://stamanfar.medium.com
+        - text: Sian Murray Huynh
+          href: https://sianmurrayhuynh.substack.com
         - text: Simon Wilson
           href: https://www.officeofwilson.com/author/simon/
         - text: Steve Messer
