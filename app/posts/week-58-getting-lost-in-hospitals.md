@@ -30,7 +30,7 @@ Thankfully, MMR and pneumococcal vaccines have been able to follow our existing 
 
 The harder problem was supporting the London flu service. This is tricky because we already support the nationally commissioned flu vaccine, which has a set of eligibility criteria, but the London service expands upon this and additionally offers the vaccine to some other groups, such as those experiencing homelessness. Having 2 different sets of criteria (and also different reimbursement mechanisms) for the same vaccine is not something our current system model supports.
 
-We’ve designed a way that the interface can best flex to support this in future, but it’s looking like that’s not going to be deliverable for this upcoming winter vaccination campaign. So in the meantime we’re also discussing options for messy compromises. I caught myself feeling frustrated at this, but it’s often the reality of design. Sometimes technical restraints limit your options, and you have to learn when to push at those, and when to accept that delivery trumps usability.
+We’ve designed a way that the interface can best flex to support this in future, but it’s looking like that’s not going to be deliverable for this upcoming winter vaccination campaign. So in the meantime we’re also discussing options for messy compromises. I caught myself feeling frustrated at this, but it’s often the reality of design. Sometimes technical restraints limit your options, and you have to learn when to push at those, and when to accept that delivery beats usability.
 
 ## Links
 
