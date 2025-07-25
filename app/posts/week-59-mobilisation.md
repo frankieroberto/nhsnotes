@@ -8,7 +8,7 @@ image:
   opengraphImage: true
 ---
 
-The highlight of this week was a visit to Leicester to visit some of the [East Midlands pharmacies now offering the RSV vaccination](https://www.england.nhs.uk/midlands/2025/07/08/east-midlands-pharmacies-begin-roll-out-of-free-rsv-vaccine/). We did over 20,000 steps, spoke to 6 pharmacies, and had one very cheap lunch in a delightful cafe.
+The highlight of this week was a trip to Leicester to visit some of the [East Midlands pharmacies now offering the RSV vaccination](https://www.england.nhs.uk/midlands/2025/07/08/east-midlands-pharmacies-begin-roll-out-of-free-rsv-vaccine/). We did over 20,000 steps, spoke to six pharmacies, and had one very cheap lunch in a delightful cafe.
 
 The purpose of our visits was to learn from the pharmacists how the process of getting set up for this new vaccination programme has been, whilst it was still fresh in their memories.
 
@@ -26,7 +26,7 @@ Before they could begin, the pharmacies had to:
 * get set up on another [service for being paid](https://www.service-catalogue.nhs.uk/services/manage-your-service-pharmacy) for them
 * learn [how to prepare the vaccine](https://media.pfizerpro.com/?media=6368843033112)
 
-These services are run by 3 different organisations (NHS England, UK Health Security Agency and NHS Business Services Authority) and use several different logins.
+These services are run by three different organisations (NHS England, UK Health Security Agency and NHS Business Services Authority) and use several different logins.
 
 When you list all these steps out, and consider that pharmacies are busy places where this vaccine is just one of the many services they offer, it’s easy to see understand how it might take some time to do them all, and any stumbling blocks can cause delays.
 
