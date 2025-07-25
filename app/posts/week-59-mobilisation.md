@@ -28,7 +28,7 @@ Before they could begin, the pharmacies had to:
 
 These services are run by three different organisations (NHS England, UK Health Security Agency and NHS Business Services Authority) and use several different logins.
 
-When you list all these steps out, and consider that pharmacies are busy places where this vaccine is just one of the many services they offer, it’s easy to see understand how it might take some time to do them all, and any stumbling blocks can cause delays.
+When you list all these steps out, it's easy to understand how it might take some time to do them all. Pharmacies are busy places, and this vaccine is just one of many services they offer, so any stumbling blocks can cause delays.
 
 Thankfully, the pharmacies did often have people they could rely on to make sense of all this and help them through the process. Sometimes this was the regional team at NHS England, other times it was a peer support WhatsApp group, or just someone at the pharmacy who was the most confident with digital stuff.
 
