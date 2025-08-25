@@ -52,7 +52,7 @@ I’m also hopeful that we’ll be able to continue to build a community of desi
 
 * [Doing open](https://gilest.org/doingopen/) from Giles Turnbull
 * [Building the NHS’s digital backbone: The hidden tech that delivers vaccines](https://www.linkedin.com/pulse/building-nhss-digital-backbone-hidden-tech-delivers-vaccines-powell-k9d2e/) from our Deputy Director Helena Powell
-* [Making services work together — starting with health, disability and work](https://gds.blog.gov.uk/2025/06/04/making-services-work-together-starting-with-health-disability-and-work/) from Eleanor Stephens at the Government Digita Service
+* [Making services work together — starting with health, disability and work](https://gds.blog.gov.uk/2025/06/04/making-services-work-together-starting-with-health-disability-and-work/) from Eleanor Stephens at the Government Digital Service
 
 ---
 
