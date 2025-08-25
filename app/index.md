@@ -23,6 +23,8 @@ related:
           href: https://gilest.org/notes/index.html
         - text: James Higgot
           href: https://jiggott.medium.com
+        - text: Joe Knowles
+          href: https://medium.com/@jjknowles
         - text: Matt Edgar
           href: https://blog.mattedgar.com
         - text: Max Marulli
@@ -39,14 +41,22 @@ related:
           href: https://owenis.online/pages/blog/
         - text: Ralph Hawkins
           href: https://ralphhawkins.co.uk
+        - text: Rebecca Cottrell
+          href: https://quietsignals.co.uk
         - text: Sam Villis
           href: https://stamanfar.medium.com
+        - text: Sarah Rose Stokes
+          href: https://medium.com/@SarahRose-UR
         - text: Sian Murray Huynh
           href: https://sianmurrayhuynh.substack.com
         - text: Simon Wilson
           href: https://www.officeofwilson.com/author/simon/
         - text: Steve Messer
           href: https://visitmy.website/tag/weeknotes/
+        - text: Tero Väänänen
+          href: https://medium.com/@teropsv
+        - text: Tom Hallam
+          href: https://thomashallam.github.io
         - text: Trilly Chatterjee
           href: https://medium.com/@trillyc
         - text: Veronika Jermolina
