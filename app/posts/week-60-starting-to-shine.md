@@ -16,7 +16,7 @@ Whilst I was away, the [new product page](https://www.ravs.england.nhs.uk/) and 
 
 This is something we’ve been working for a while – see [week 46](/posts/week-46-product-comms/) and [week 47](/posts/week-47-blue-skies/)) – and is a big step forward.
 
-![Illustration showing buttons, radio inputs, icons and a terminal prompt all connected to a laptop showing a box with a blue header labelled ‘Service’](/images/ravs-product-page.png)
+![Screenshot showing a page with the large title ‘The simplest way to record vaccinations’ along with an illustration of a service on a laptop next to a vaccine vial, connected by a dotted arrow to a smartphone showing the NHS app. Beneath the heading is a button labelled ‘Sign up for free’. This is followed by a section with the headings ‘Free to use‘, ‘Connected’, and ‘Get access today’.](/images/ravs-product-page.png)
 
 I wrote some design history posts to explain the background behind this: [promoting the service with a product page](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/08/promoting-the-service-with-a-product-page/) and [enabling pharmacies to sign up to the service](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/).
 
