@@ -13,7 +13,7 @@ export default function(eleventyConfig) {
     },
     footer: {
       copyright: {
-        text: '© 2024'
+        text: '© 2024–2025'
       },
       contentLicence: {
         text: "This is a personal blog. Views expressed are not necessarily those of the NHS."
