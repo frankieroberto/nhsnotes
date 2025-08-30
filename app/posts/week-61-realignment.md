@@ -10,7 +10,7 @@ Two big bits of news to discuss this week.
 
 ## NHS frontend version 10
 
-We released a major update to the NHS designs system and frontend library: version 10.
+We released a major update to the [NHS design system and frontend library](https://service-manual.nhs.uk): version 10.
 
 There are so many changes that, for the first time, we’ve written [an upgrade guide](https://service-manual.nhs.uk/design-system/guides/updating-to-v10).
 
@@ -22,7 +22,7 @@ Around a year ago, we noted that a lot of teams working on staff-facing services
 
 It was an understandable assumption though, as the NHS design system was first developed for the public NHS website, and there are plenty of gaps in it for components and patterns that staff-facing services may need.
 
-To try and correct for this, around a year ago I suggested that we start by designing a version of the header for services where the users are logged in, as is the case for all staff-facing services.
+To try and correct for this, [around a year ago](/posts/week-8-recovery/) I suggested that we start by designing a version of the header for services where the users are logged in, as is the case for all staff-facing services.
 
 The core need was simple: adding a ‘Log out’ button at the top right. However, given staff often share computers and laptops, in some services it’s important to show who is currently logged in. There’s also often a need for a link to an account page where users can do things like change their password or other settings. The new header supports all this.
 
