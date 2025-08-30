@@ -10,7 +10,7 @@ Two big bits of news to discuss this week, so let’s dive right in.
 
 We released a major update to the NHS designs system and frontend library: version 10.
 
-There are so many changes that, for the first time, we’ve written an upgrade guide.
+There are so many changes that, for the first time, we’ve written [an upgrade guide](https://service-manual.nhs.uk/design-system/guides/updating-to-v10).
 
 Rather than go through all the details, I thought I’d talk here about the two strategic aims of this release.
 
