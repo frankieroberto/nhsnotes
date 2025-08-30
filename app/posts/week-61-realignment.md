@@ -4,7 +4,9 @@ date: 2025-08-30
 description: NHS frontend version 10. Vaccine news.
 ---
 
-Two big bits of news to discuss this week, so let’s dive right in.
+I spent the first half of this week recovering from a mild bout of Covid, working from home whilst the kids mostly entertained themselves. Lockdown vibes.
+
+Two big bits of news to discuss this week.
 
 ## NHS frontend version 10
 
@@ -20,11 +22,13 @@ Around a year ago, we noted that a lot of teams working on staff-facing services
 
 It was an understandable assumption though, as the NHS design system was first developed for the public NHS website, and there are plenty of gaps in it for components and patterns that staff-facing services may need.
 
-To try and correct for this, around a year ago I suggested that we start by designing a version of the header for services where the users are logged in - as is the case for all staff-facing services. At its simplest, this means adding a ‘Log out’ button at the top right. However, given staff often share computers and laptops, in some services it’s also important to show who is currently logged in. And there can also often be a need to have a link to an account section where users can do things like change their password or other settings.
+To try and correct for this, around a year ago I suggested that we start by designing a version of the header for services where the users are logged in, as is the case for all staff-facing services.
 
-The new header supports all this. There’s some flexibility, as different services have different contexts, but having a consistent design for the account section in the header should help us start improving the experience for NHS staff who have to deal with so many different login systems.
+The core need was simple: adding a ‘Log out’ button at the top right. However, given staff often share computers and laptops, in some services it’s important to show who is currently logged in. There’s also often a need for a link to an account page where users can do things like change their password or other settings. The new header supports all this.
 
-Whilst we were working on the header, we also took the opportunity to tweak the design and improve the code for the rest of it. One example of this is that previously there was a very slightly different design for ‘services’ verses ‘transactional services’. The distinction between these was vague at best, and so we’ve removed it. Services can still choose whether or not the NHS logo goes to their service homepage or the NHS.UK homepage, based on their context.
+The new header is flexible, as different services have different contexts, but having a consistent design for the account section in the header should help us start improving the experience for NHS staff who have to deal with so many different login systems.
+
+Whilst we were working on the header, we took the opportunity to tweak the design and improve the code for the rest of it. One example of this is that previously there was a very slightly different design for ‘services’ verses ‘transactional services’. The distinction between these was vague at best, and so we’ve removed it. Services can still choose whether or not the NHS logo goes to their service homepage or the NHS.UK homepage, based on their context.
 
 There are still lots of things we can do in future to better support staff-facing services, but the new header is a marker of intent.
 
@@ -36,7 +40,7 @@ Unfortunately, a series of mergers, the pandemic, and other crises led to a few 
 
 For example, NHS frontend was still (theoretically) supporting JavaScript for Internet Explorer 11, but GOV.UK dropped this back in 2023.
 
-NHS frontend version 10 realigns much of our foundations back with GOV.UK frontend, allowing us to share and reuse more code.
+NHS frontend version 10 realigns much of our foundations back with GOV.UK frontend, allowing us to share and reuse more code, speeding up development whilst improving usability and accessibility.
 
 To risk a clumsy Brexit analogy, we’re moving from a hard fork towards dynamic alignment. We’ll still diverge at times, but only where it makes sense to do so, rather than by accident.
 
@@ -44,7 +48,7 @@ Version 10 was a huge, year-long effort (alongside other work) by many people. H
 
 ## Vaccine news
 
-The government announced this week that a [chickenpox vaccine will be offered to children in England](https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children) from January, following a [a JVCI recommendation](https://www.gov.uk/government/publications/childhood-varicella-vaccination-programme-jcvi-advice-14-november-2023/jcvi-statement-on-a-childhood-varicella-chickenpox-vaccination-programme).
+The government announced this week that a [chickenpox vaccine will be offered to children in England](https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children) from January, following [a JVCI recommendation](https://www.gov.uk/government/publications/childhood-varicella-vaccination-programme-jcvi-advice-14-november-2023/jcvi-statement-on-a-childhood-varicella-chickenpox-vaccination-programme).
 
 The chickenpox vaccine was discussed quite a bit in the [immunisation network conference I attended](/posts/week-54-live-long-and-prosper/) back in June, connected with a debate on whether wider economic factors should be part of vaccine programme decision making. So it’s of note that this week’s press release mentions a calculated £24 million in lost income and productivity from parents having to take time off work to look after their children.
 
