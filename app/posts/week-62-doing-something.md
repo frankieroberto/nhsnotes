@@ -4,9 +4,9 @@ date: 2025-09-06
 description: Shipping code. Booking speakers. NHS Frontend version 10 follow-up.
 ---
 
-I spent 2 days up in Leeds this week, as part of our regular team get-togethers. It was a great opportunity to meet some of the newer members of the team for the first time, and to reconnect with others.
+I spent 2 days up in Leeds this week as part of our regular team get-togethers. It was a great opportunity to meet some of the newer members of the team for the first time and to reconnect with others.
 
-Among the conversations we had was one about how we can better balance testing and assurance with the need to ship smaller changes, more often. This is not something I’m directly involved in, as it mostly affects the developers, but it’s something I can see the impact of.
+Among the conversations we had was one about how we can improve our release process. We'd like to find a better balance between testing and assurance and the need to ship smaller changes, more often. This is not something I’m directly involved in, as it mostly affects the developers, but it’s something I can see the impact of.
 
 This is a conversation that’s been had wider across digital prevention services too, with our leadership having set of goal of teams getting to a point of being able to do daily releases. I must admit, before joining the NHS, I had thought this was a given.
 
