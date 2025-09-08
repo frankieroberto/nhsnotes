@@ -4,6 +4,13 @@ export default function(eleventyConfig) {
 
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
+    templates: {
+      feed: {
+        title: 'NHS notes'
+      },
+      tags: false,
+      searchIndex: false
+    },
     header: {
       logotype: {
         text: 'NHS notes'
@@ -35,7 +42,6 @@ export default function(eleventyConfig) {
     },
     themeColor: '#005eb8',
     stylesheets: ['/assets/styles.css'],
-    feedUrl: 'posts/feed.xml',
     titleSuffix: 'NHS notes from Frankie Roberto',
     url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
   })
