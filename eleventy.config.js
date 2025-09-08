@@ -9,7 +9,8 @@ export default function(eleventyConfig) {
         title: 'NHS notes'
       },
       tags: false,
-      searchIndex: false
+      searchIndex: false,
+      sitemap: false
     },
     header: {
       logotype: {
