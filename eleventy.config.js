@@ -6,6 +6,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     templates: {
       feed: {
+        permalink: '/posts/feed.xml',
         title: 'NHS notes'
       },
       tags: false,
