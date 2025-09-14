@@ -30,7 +30,7 @@ The only bittersweet note to mention is that this course is based on material th
 
 ## MMR vaccination history
 
-With MMR vaccination rates [not high enough](https://www.gov.uk/government/news/almost-1-in-5-children-starting-primary-school-are-not-fully-protected-against-several-serious-diseases), [cases of measles](https://www.gov.uk/government/news/latest-data-shows-measles-cases-remain-high) have been on the increase. The NHS urges parents to prioritise getting their children vaccinated, but also says that adults can get the vaccine too if they’ve not yet had it, and if they’re not sure, to check with their GP.
+With MMR vaccination rates [still too low](https://www.gov.uk/government/news/almost-1-in-5-children-starting-primary-school-are-not-fully-protected-against-several-serious-diseases), [cases of measles](https://www.gov.uk/government/news/latest-data-shows-measles-cases-remain-high) have been on the increase. The NHS urges parents to prioritise getting their children vaccinated, but also says that adults can get the vaccine too if they’ve not yet had it, and if they’re not sure, to check with their GP.
 
 I’m fairly certain I probably had it as a child, but neither I nor my parents can remember for sure (I only remember the [BCG vaccine](https://www.nhs.uk/vaccinations/bcg-vaccine-for-tuberculosis-tb/), which was given at school). So I thought I’d follow the guidance and ask my GP to check.
 
