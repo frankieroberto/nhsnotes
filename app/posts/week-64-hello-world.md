@@ -20,7 +20,7 @@ The course is aimed at complete beginners, so I spend a bit of time at the begin
 
 The rest of the course gets a bit more complicated, introducing JavaScript, Nunjucks and the NHS Prototype Kit, but I think we’re getting better at explaining it and pacing the exercises. We’ll keep tweaking it though.
 
-Micol Artem attended it this week, and said [some nice things about the course](https://medium.com/@micolartom/week-8-when-the-learning-happens-outside-the-classroom-8c6cf94c181b). She’s a researcher, but found it valuable to understand and appreciate the work in creating prototypes.
+Micol Artom attended it this week, and said [some nice things about the course](https://medium.com/@micolartom/week-8-when-the-learning-happens-outside-the-classroom-8c6cf94c181b). She’s a researcher, but found it valuable to understand and appreciate the work in creating prototypes.
 
 We deliberately didn’t restrict the course to just being for designers. As Tim says, [this is for everyone](https://www.panmacmillan.com/authors/tim-berners-lee/this-is-for-everyone/9781035023677).
 
