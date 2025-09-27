@@ -28,8 +28,6 @@ I can’t not mention the outrageous misinformation from the American President 
 
 The phrase that upset me the most, having witnessed how hard pregnancy can be, was the idea that pregnant women should ‘tough it out’. Not only is this medically dangerous, but I think it’s also deeply misogynistic.
 
-Women already have a hard enough time getting their health issues taken seriously by a largely male medical profession, and they really don’t need an unqualified head of state weighing in.
-
 ## Links
 
 * The Chief Medical Officer has published [Health trends and variation in England 2025](https://www.gov.uk/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report/health-trends-and-variation-in-england-2025-accessible-version) - chapter 5 is all about screening and vaccinations
