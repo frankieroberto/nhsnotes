@@ -39,3 +39,4 @@ Women already have a hard enough time getting their health issues taken seriousl
 
 ---
 
+Next week I have the excitement of waiting in for an engineer to come and repair our home heating. It turns out that the system of heat exchangers is pretty complicated, and everything had broken at once. I’m just hoping it can be fixed before the weather gets too cold.
