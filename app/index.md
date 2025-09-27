@@ -31,7 +31,7 @@ related:
           href: https://medium.com/@maxmarulli
         - text: Matt Jukes
           href: https://digitalbydefault.com
-        - test: Matt Luct
+        - text: Matt Luct
           href: https://mattlucht.github.io/notes.html
         - text: Micol Artom
           href: https://medium.com/@micolartom
