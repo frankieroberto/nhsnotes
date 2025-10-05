@@ -43,7 +43,7 @@ As Duncan notes, stopping doing things is hard. Which is why our having removed 
 Our teams have published lots of great design histories this week:
 
 * [What we learned about breast screening data](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2025/09/what-we-learned-about-breast-screening-data/)
-* [Breas screening: Our new digital process for adding participants](https://design-history.prevention-services.nhs.uk/select/2025/09/our-new-digital-process-for-adding-participants/)
+* [Breast screening: Our new digital process for adding participants](https://design-history.prevention-services.nhs.uk/select/2025/09/our-new-digital-process-for-adding-participants/)
 * [Book a vaccination: Making date selection more flexible](https://design-history.prevention-services.nhs.uk/book-a-vaccination/2025/10/improving-date-selection/)
 * [Record a vaccination: Adding support for the London flu service](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/09/london-flu/)
 * [Select people for invitation: Metrics](https://design-history.prevention-services.nhs.uk/select-people-for-invitation/2025/09/metrics/)
