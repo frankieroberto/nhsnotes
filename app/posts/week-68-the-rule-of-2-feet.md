@@ -18,7 +18,7 @@ The bulk of the rest of the day was structured as a unconference. I introduced t
 
 I was pleased that nearly everyone pitched a session, although this did mean that [Duncan](https://mechanicalsurvival.com) and I had to quickly group them together and assemble a grid.
 
-The first session I attended was about comms and content strategy, and in particular what next for the [DPSP website](https://www.digital-prevention-services.nhs.uk). This is something I’ve been giving Giles a bit of help with. It serves a few different purposes, the most important of which is to help the rest of the NHS (and government, and others) understand  what we’re up to. 
+The first session I attended was about comms and content strategy, and in particular what next for the [DPSP website](https://www.digital-prevention-services.nhs.uk). This is something I’ve been giving [Giles](https://gilest.org) a bit of help with. It serves a few different purposes, the most important of which is to help the rest of the NHS (and government, and others) understand  what we’re up to. 
 
 The second session I went to asked the question: how can the NHS app be more person-centric? This started by discussing ways in which it currently isn’t. One issue is that the app will show you notes from a GP, or a discharge letter from a hospital, but these are often written for the benefit of other doctors rather than the patient themselves. Consequently they’re full of jargon and hard to interpret (the app links to a list of common abbreviations to try and mitigate this).
 
