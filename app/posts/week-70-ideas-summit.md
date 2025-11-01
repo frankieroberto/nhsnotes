@@ -35,7 +35,7 @@ Sharing these here mainly so I can refer back to them if I get involved with org
 * Select and invite speakers early. This was the first thing we did. Use existing contacts where you have them, but cold calling people you’ve seen elsewhere or read about online works too.
 * Sort out travel for the speakers. We were able to order train tickets for them, to save them having to faff about with expense claims.
 * Avoid having events during half-term. (This was a mistake.)
-* Be less ambiguous about whether attendance is expected or not. We had a good attendance in the end and probably the room couldn’t have taken many more, but teams were left to make their own decisions on whether the travel was justified or not.
+* Be less ambiguous about whether attendance is expected. We had a good attendance in the end and probably the room couldn’t have taken many more, but teams were left to make their own decisions on whether the travel was justified or not.
 * Try and limit the number of slide decks to juggle between. Speakers will often want to tweak their slides right to the wire, and that’s fair enough, but the more you can collate into a single deck, the easier.
 
 ### On the day
