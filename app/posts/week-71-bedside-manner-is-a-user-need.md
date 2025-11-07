@@ -4,6 +4,10 @@ date: 2025-11-07
 description: Azure outage retro and notes from user research.
 ---
 
+This week flew by. 
+
+I made the effort to attend a few more show-and-tells from other teams than I normally get time to. The relevance of these can be hard to predict in advance, but it can be useful to have an ambient awareness of other stuff going on.
+
 ## Azure outage retro
 
 The week started with a multi-team retro on our response to [last week’s Azure outage](https://www.bbc.co.uk/news/articles/c3rj45n4x5eo), led by our CTO Duncan Brown.
