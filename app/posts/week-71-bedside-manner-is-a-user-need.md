@@ -10,7 +10,7 @@ I made the effort to attend a few more show-and-tells from other teams than I no
 
 ## Azure outage retro
 
-The week started with a multi-team retro on our response to [last week’s Azure outage](https://www.bbc.co.uk/news/articles/c3rj45n4x5eo), led by our CTO Duncan Brown.
+The week started with a multi-team retro on our response to [last week’s Azure outage](https://www.bbc.co.uk/news/articles/c3rj45n4x5eo), led by our CTO [Duncan Brown](https://mechanicalsurvival.com).
 
 The incident brought down a few of our services, and so at one point during it there were several simultaneous calls taking place at different levels of the organisation. This helped with some alignment of communications, but did generate a fair bit of noise. There’s a tricky balance to be had between autonomous teams and central co-ordination.
 
