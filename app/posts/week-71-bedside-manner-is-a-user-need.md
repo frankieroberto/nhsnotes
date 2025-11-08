@@ -4,7 +4,7 @@ date: 2025-11-07
 description: Azure outage retro and notes from user research.
 ---
 
-This week flew by. 
+This week flew by.
 
 I made the effort to attend a few more show-and-tells from other teams than I normally get time to. The relevance of these can be hard to predict in advance, but it can be useful to have an ambient awareness of other stuff going on.
 
@@ -33,6 +33,7 @@ My favourite insight tidbit from the research was on the importance of seeing th
 * [Digital identity and the UK government’s announceability problem](https://www.rpp.works/ways-of-doing/digital-identity-and-the-uk-governments-announceability-problem/) from Richard Pope discusses the issues with how ministers communicate tech projects. I’d like to propose a new rule: no announcement without a demo. Show beats tell.
 * [We need to rebrand User Research in the NHS](https://medium.com/user-centered-design-ucd-in-healthcare-in-wales/we-need-to-rebrand-user-research-in-the-nhs-388bedf1c09b) by Monika Mani Swiatek suggests reframing user research as de-risking projects.
 * [A blueprint to halve obesity in the UK](https://blueprint.nesta.org.uk) from Nesta is framed in the classic civil service language of ‘policy packages’, and even has some cost and impact levers you can interact with, but it’s a good summary of various policy options to tackle obesity.
+* [I found something strange on my back – and eventually I just couldn’t ignore it](https://www.theguardian.com/commentisfree/2025/nov/05/i-found-something-strange-on-my-back-and-eventually-i-just-couldnt-ignore-it) by Adrian Chiles is a great retelling of the patient experience of digital NHS services.
 
 ---
 
