@@ -12,6 +12,7 @@ Notes in brief from me this week:
 * I’ve been continuing some design work looking at how we could enable large pharmacy chains to more easily [get reports](https://guide.ravs.england.nhs.uk/reporting/) on how many vaccinations they’ve given across all their pharmacies. Currently this is a bit of a painful one-site-at-a-time process. We’ve got an idea for a short-term improvement, but longer-term we’ll likely need to change our organisation data model.
 * Some of our research has indicated that changing the order of our questions could benefit some users, for reasons we hadn’t previously anticipated. It’s not conclusive yet as the research hasn’t wrapped up, but I’ve started some early prototyping of how things could be re-jigged around.
 * I enjoyed gettung a demo from [Mike](https://mikegallagher.org) of some early prototypes for a new NHS App using native iOS code. The difference is night and day.
+* I dipped a small toe in the AI waters, using the NHS’s GitHub copilot trial to write tests for some existing JavaScript. This feels like kind of tedious work that I dont mind outsourcing. It worked, and I did learn a couple of things in the process. The over-confident chatty tone is annoying though.
 
 ## Links
 
