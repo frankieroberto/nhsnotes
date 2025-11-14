@@ -16,7 +16,7 @@
     "@x-govuk/govuk-eleventy-plugin": "^8.1.1"
   },
   "engines": {
-    "node": "^22"
+    "node": "^24"
   },
   "private": true,
   "type": "module"
