@@ -16,6 +16,7 @@ Notes in brief from me this week:
 
 * [From platforms to pilots: What we’re learning about personalised prevention](https://irinapencheva.com/2025/11/09/from-platforms-to-pilots-what-were-learning-about-personalised-prevention/) by Irina Pencheva has some reflections on the recent work and strategy shifts within Personalised Prevention Services
 * [Preventative healthcare: designing for the service loop](https://www.rpp.works/ways-of-doing/preventative-designing-for-the-service-loop/) from Richard Pope is a set of design provocations for preventative healthcare
+* [A year at Miro](https://petafloptimism.com/2025/11/14/a-year-at-miro/) from Matt Jones contains reflections on his first year leading AI within Miro.
 
 ---
 
