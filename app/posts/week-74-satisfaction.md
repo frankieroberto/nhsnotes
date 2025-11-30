@@ -23,4 +23,4 @@ Notes in brief:
 
 ---
 
-Weekend plans include seeing Zootropolis 2 and going to a Christmas market. The season has begun.
+Weekend plans include seeing Zootopia 2 and going to a Christmas market. The season has begun.
