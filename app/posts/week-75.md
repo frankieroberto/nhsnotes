@@ -14,7 +14,7 @@ On Monday we ran our final [prototype kit training course](https://prototype-kit
 
 We’ve tweaked and improved some things along the way, but the course is pretty stable now, and we can turn up and run it with minimal prep.
 
-I think we’ve also landed on a good balance between telling participants what to do verses giving them scope to make changes and add their own flair. This keeps people engaged and also makes the demos at the end more varied.
+I think we’ve also landed on a good balance between telling participants what to do versus giving them scope to make changes and add their own flair. This keeps people engaged and also makes the demos at the end more varied.
 
 I hope people come away being impressed with themselves for having being able to build a 7 or 8 page prototype, including branching questions, from scratch within a day.
 
