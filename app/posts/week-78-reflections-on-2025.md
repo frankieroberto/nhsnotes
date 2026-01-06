@@ -65,6 +65,7 @@ In 2025:
 
 More 2025 notes from our team:
 
+* [Dan Bower: 2025 in review](https://danielbower.com/2026/01/04/2025-review)
 * [Duncan Brown: 10 lessons from 2025](https://mechanicalsurvival.com/blog/2025/)
 * [Micol Artom: 24 reflections from 2025](https://medium.com/@micolartom/weeknote-24-reflections-from-2025-2a9647740f56)
 * [Rachel Hope: Oh, what an incredible 2025](https://www.linkedin.com/feed/update/urn:li:activity:7409586633672454144/)
