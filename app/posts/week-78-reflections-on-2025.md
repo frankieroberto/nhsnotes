@@ -63,7 +63,7 @@ In 2025:
 
 ## From others
 
-More 2025 notes from NHS folk:
+More 2025 notes from our team:
 
 * [Dan Bower: 2025 in review](https://danielbower.com/2026/01/04/2025-review)
 * [Duncan Brown: 10 lessons from 2025](https://mechanicalsurvival.com/blog/2025/)
