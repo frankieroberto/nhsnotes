@@ -10,7 +10,7 @@ In our regular welcome calls for new starters, I have a slot to introduce what t
 
 I’ve honed my spiel down to offering 3 motivations for them, in order of importance:
 
-1. for your future self, your team and anyone who succeeds you: to remember what you did, the design intent, what you learnt, and anything you’d like to have but which got deprioritised.
+1. for your future self, your team and anyone who succeeds you: to remember what you did, the design intent, what you learnt, and anything you’d like to have done but which got deprioritised.
 
 2. so that other related teams within NHS prevention services can understand what you’re doing, learn from you and spot opportunities for connection.
 
