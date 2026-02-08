@@ -22,7 +22,7 @@ related:
         - text: Imogen Levy
           href: https://teppie-ucd.medium.com
         - text: Giles Turnbull
-          href: https://gilest.org/notes/index.html
+          href: https://gilest.org/index.html
         - text: James Higgot
           href: https://jiggott.medium.com
         - text: Joe Knowles
