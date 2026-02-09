@@ -18,7 +18,7 @@ One of our team sessions was to look at how we can improve the experience of sea
 
 Most of the time, staff are able to quickly look up a patient using their NHS number, either because the patient knows it by heart (more common than you’d imagine!) or because their number is associated with a vaccination booking or other record.
 
-However in circumstances like as a pharmacy walk-in, the staff have to find your record using your name, date of birth and optionally postcode. In our service this currently returns a match 70% of the time. We want to see if we can make this number go up.
+However in circumstances like a pharmacy walk-in, the staff have to find your record using your name, date of birth and optionally postcode. In our service this currently returns a match 70% of the time. We want to see if we can make this number go up.
 
 There can be many reasons for a failed search, including mis-spellings of names, name changes, address changes, or someone not remembering their date of birth. Double-barrelled surnames are often mentioned by users as an issue too.
 
