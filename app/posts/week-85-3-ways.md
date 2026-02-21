@@ -12,7 +12,7 @@ As a designer it’s tempting to treat the intricate details of how all this wor
 
 It’s in this context that I find myself reading and trying to understand the technical documentation for all the various systems and services within the NHS.
 
-This is often made trickier by there being multiple different mechanisms to do the same thing, whether it’s reading and writing to GP records, [searching for patients](/posts/week-83-searching-patiently/), getting information about organisations, single sign in systems, or more.
+This is often made trickier by there being multiple different mechanisms to do the same thing, whether it’s reading and writing to GP records, [searching for patients](/posts/week-83-searching-patiently/), getting information about organisations, single sign in systems, and more.
 
 To give a quick generalisation, there might be 3 ways to do a thing:
 
