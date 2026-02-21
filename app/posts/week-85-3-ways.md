@@ -8,7 +8,7 @@ If you’re a designer working on a service for the NHS, it’s unlikely that yo
 
 Instead, it’s likely hooked up to a bunch of other services to exchange data or deliver core functionality.
 
-As a designer it’s tempting to treat the intricate details of how all this works as a purely engineering concern. But [design is how it works](https://www.youtube.com/watch?v=-ueUb6PNwbs). And even if we can’t influence the design of all these integrations (and we should try to), it falls to design to make it clear to our users.
+As a designer it’s tempting to treat the intricate details of how all this works as a purely engineering concern. But [design is how it works](https://www.nytimes.com/2003/11/30/magazine/the-guts-of-a-new-machine.html?login=email&auth=login-email), as Steve Jobs once said. And even if we can’t influence the design of all these integrations (and we should try to), it falls to design to make it clear to our users.
 
 It’s in this context that I find myself reading and trying to understand the technical documentation for all the various systems and services within the NHS.
 
