@@ -33,7 +33,7 @@ My kids’ MMR vaccinations are listed as ‘Measles/mumps/rubella vaccn.’ in 
 
 If your don’t have proxy access set up, and can’t find the red book, the other option is to phone your GP and ask them to check. Hopefully they have good records for your children, but for adults they may not have - my GP [seems to have no vaccination records for me](/posts/week-63-getting-across-the-line/#mmr-vaccination-history) except for the COVID-19 ones.
 
-There is much to do to improve this.
+There is much to do to improve this. The NHS app needs to make it far easier and quicker to check your children are up-to-date with their vaccinations. Ideally you wouldn’t even have to remember to check, but could be notified when the vaccinations are due.
 
 Thankfully, our teams are already on the case, with plans to improve the view of vaccinations in the app, make it easier to get proxy access set up, get better historic data on MMR vaccinations, and building services which let teams run some of the catch up vaccination clinics we’re seeing in response to outbreaks.
 
