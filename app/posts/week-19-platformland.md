@@ -34,7 +34,7 @@ The experience right now is a little odd. You have tap 'manage health service fo
 
 It’s also a bit old-fashioned to give my 5 year old the title of 'Master'.
 
-Thankfully, there’s a teams working on improving proxy access, so I look forward to seeing those developments.
+Thankfully, there’s a team working on improving proxy access, so I look forward to seeing those developments.
 
 In the meantime, being able to see the history of all the GP appointments we took our kids to in their first years is a real trip down memory lane. I’d forgotten just how often they got conjunctivitis and other viruses after starting nursery...
 
