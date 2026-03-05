@@ -22,7 +22,7 @@ We’ve also had discussions about whether and how to version designs. I don’t
 
 For coded prototypes, I tend to recommend that designers avoid maintaining several versions within a single prototype unless there are good reasons to, as it can soon get unwieldy and hard to keep all the versions working independently. An alternative strategy is to make use of some of the Git features that developers use. You can use branches to try out different ideas in parallel. Or make use of the commit history to view a design as it was several months ago, if needed. It’s incredibly powerful but there is a learning curve - so this is something we could offer more support and guidance on.
 
-I also advocated again for writing design histories. These can go beyond documenting just what the designs are, but instead describe the intent. The why to go with the what. They’re also a place where you can describe any discarded ideas that didn’t work, or things you’d like to have done but couldn’t yet for pragmatic or technical reasons.
+I also advocated again for writing [design histories](https://design-history.prevention-services.nhs.uk). These can go beyond documenting just what the designs are, but instead describe the intent. The why to go with the what. They’re also a place where you can describe any discarded ideas that didn’t work, or things you’d like to have done but couldn’t yet for pragmatic or technical reasons.
 
 I’d love to hear from other teams about how they document their designs. Other disciplines too - I’m sure there are some interesting debates within the user research community on how best to write up their research and in what level of detail.
 
