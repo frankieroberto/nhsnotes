@@ -1,11 +1,12 @@
 ---
 title: "Week 87: How the sausage is made"
 date: 2026-03-05
+description: "Notes on how teams document their designs"
 ---
 
 Over the past week I’ve been involved in a workshop and some conversations about the design process.
 
-Whilst most of our teams within NHS England are now using the NHS prototype kit, some teams are also using Figma to document every variant of every screen.  I can see how it can be useful to be able to visualise the flow of a service, but I fear that expecting designers to maintain both a coded prototype and a Figma version could slow things down and be unnecessary duplication.
+Whilst most of our teams within NHS England are now [using the NHS prototype kit](https://digital.nhs.uk/blog/design-matters/2025/why-we-are-reinvesting-in-the-nhs-prototype-kit), some teams are also using Figma to document every variant of every screen. I can see how it can be useful to be able to visualise the flow of a service, but I fear that expecting designers to maintain both a coded prototype and a Figma version could slow things down and be unnecessary duplication.
 
 Teams also vary in how much detail about designs they add to Jira cards, and whether they use Confluence or Mural or Word or other platforms to document stuff.
 
@@ -29,6 +30,6 @@ Ultimately there are many ways to make the sausage.
 
 ---
 
-A short week for me this week and next week, as I'm currebtly on a TGV en route to thr Alps for a ski weekend!
+A short week for me this week and next week, as I'm currently on a TGV en route to thr Alps for a ski weekend!
 
 
