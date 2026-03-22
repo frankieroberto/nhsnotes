@@ -2,8 +2,12 @@
 $_font-family: system-ui, sans-serif;
 $_accent_colour: #005eb8;
 @use "pkg:govuk-frontend/dist/govuk" with (
+  $govuk-global-styles: true,
   $govuk-font-family: $_font-family,
-  $govuk-brand-colour: $_accent_colour
+  $govuk-functional-colours: (
+    brand: $_accent_colour,
+    link: $_accent_colour,
+  )
 );
 
 // Use GOV.UK Eleventy Plugin
@@ -11,11 +15,6 @@ $_accent_colour: #005eb8;
 
 .govuk-pagination__item--current {
   background-color: $_accent_colour;
-}
-
-.govuk-link,
-.govuk-link:visited {
-  color: $_accent_colour;
 }
 
 .app-document-list__item {
