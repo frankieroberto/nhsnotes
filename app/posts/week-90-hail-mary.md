@@ -14,6 +14,6 @@ But unlike the movies, our tale is not one of solo heroic acts. Instead it’s a
 
 This is radical in its own way. We’re working in the open, releasing the source code, and sharing our learning as we go.
 
-By the NHS, for the NHS.
+For the NHS, by the NHS.
 
 It’s a Hail Mary endeavour but it might just work.
