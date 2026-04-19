@@ -4,7 +4,7 @@ date: 2026-04-19
 description: "Some work-in progress designs."
 ---
 
-After a couple of weeks of perhaps overwrought weeknotes, this week I return to the traditional format of wot-I-did-this-week.
+After a couple of weeks of [perhaps](/posts/week-90-hail-mary/) [overwrought](/posts/week-91-writing-like-we-are-running-out-of-time/) weeknotes, this week I return to the traditional format of wot-I-did-this-week.
 
 As part of my leadership role I try to encourage designers to work in the open and share their work in progress. This can understandably take people a while to get comfortable with.
 
@@ -12,7 +12,7 @@ So in this spirit, I’ll share 3 bits of interface design I’ve been working o
 
 ## Search and select
 
-The first aims to solve an issue I mentioned in a previous week, which is a screen of checkboxes listing pharmacies within a single company. Often this will be a short list, but it can be quite long, and in a few cases very long!
+The first aims to solve an issue I mentioned in [a previous week](/posts/week-89/), which is a screen of checkboxes listing pharmacies within a single company. Often this will be a short list, but it can be quite long, and in a few cases very long!
 
 To make this a bit more manageable, I’ve now added a:
 
@@ -47,7 +47,7 @@ This pattern isn’t entirely novel, as it’s based on the [Add another compone
 
 ## Sketching in code
 
-Each of these 3 interfaces involves a fair bit of JavaScript, and for some of them I’ll admit that I used AI to help, which sped things up.
+Each of these 3 interfaces involves a fair bit of JavaScript, and for some of them I’ll admit that I used AI to help, which saved time.
 
 Interfaces like this can only really be explored in a fully working and interactive way, which is why I promote [sketching in code rather than Figma](https://digital.nhs.uk/blog/design-matters/2025/why-we-are-reinvesting-in-the-nhs-prototype-kit).
 
