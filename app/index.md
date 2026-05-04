@@ -11,6 +11,8 @@ related:
   sections:
     - title: Other weeknoters
       items:
+        - text: Alexandra Deschamps-Sonsino
+          href: https://www.designswarm.com/blog/
         - text: Benjy Stanton
           href: https://www.benjystanton.co.uk/blog/
         - text: Chris Ballantine‑Thomas
