@@ -1,7 +1,7 @@
 ---
 title: "Week 99: Unusual ear anatomy"
 date: 2026-06-12
-description: "How my hesrimg got fixed."
+description: "How my hearing got fixed."
 ---
 
 This weeks weeknotes are a little personal. I hope you forgive the oversharing. 
