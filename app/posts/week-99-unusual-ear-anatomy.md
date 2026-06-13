@@ -4,7 +4,7 @@ date: 2026-06-12
 description: "How my hearing got fixed."
 ---
 
-This weeks weeknotes are a little personal. I hope you forgive the oversharing. 
+This week's weeknotes are a little personal. I hope you forgive the oversharing. 
 
 For several years my hearing had been getting slowly worse. Not so bad that I couldn’t hear at all, but enough that I would miss things if people weren’t speaking directly to me, and wouldn’t wake up when my kids made a noise in the middle of the night. Worse in one ear than the other. Worse whenever I got a cold. And bouts of tinnitus. But manageable. 
 
@@ -28,7 +28,7 @@ I duly followed the instructions and booked an appointment for a week or so’s 
 
 When I arrived the clinician looked into my ears with their head mounted magnifying glass and confirmed that the ears were complete blocked. But he seemed confident that he’d be able to clear them.
 
-Half an hour later, in which I was told under no circumstances to move my head, a d after much effort from him, it was done. He told me I had unusual ear anatomy, with a very narrow ear canal, and it’d been the hardest pair of ears he’d treated for 3 years. But the right ear was now completely clear and the left ear 90% clear.
+Half an hour later, in which I was told under no circumstances to move my head, and after much effort from him, it was done. He told me I had unusual ear anatomy, with a very narrow ear canal, and it’d been the hardest pair of ears he’d treated for 3 years. But the right ear was now completely clear and the left ear 90% clear.
 
 As I walked out of the clinic the difference was immediately noticeable. I could hear the water lapping against the dock of Canary Wharf. I could heard distant sounds of road traffic. I could hear the background conversations of all the strangers around me. It was almost overwhelming, as if noise suppression had been turned off in a video call.
 
@@ -38,7 +38,7 @@ Of course the biggest benefit was being able to hear the voices of my family and
 
 It’s not perfect. I still get a bit of tinnitus and one ear is better than the other. But I’m very grateful for the vast improvement.
 
-I’m not sure if there’s a moral of this story. I guess I probably followed the classic health pattern of waiting too long before getting help. I’m sure this can be mapped to the COM-B model of behavioural change, or something. Prevention is harder tham reaction.
+I’m not sure if there’s a moral of this story. I guess I probably followed the classic health pattern of waiting too long before getting help. I’m sure this can be mapped to the COM-B model of behavioural change, or something. Prevention is harder than reaction.
 
 Tinnitus and hearing loss affect a lot of people. Microsuction is now more widely available, but often not on the NHS for some reason. I think it probably should be.
 
