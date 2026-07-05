@@ -38,7 +38,7 @@ The letter goes on your noticeboard, and the strip at the bottom gets returned t
 
 It’s not perfect (school bags are not 100% reliable postal systems), but it generally works.
 
-How can we design a digital equivalent of the tear-off strip? Test results that are shown alongside good explanations and next steps, but where the next steps section perhaps changes over time. The button to book a follow-up appointment gets replaced with the details of that appointment once booked. And then perhaps the outcome of that appointment, which might have its own next steps.
+How can we design a digital equivalent of the tear-off strip? Test results that are shown alongside good explanations and next steps, but where the next steps section changes over time. The button to book a follow-up appointment gets replaced with the details of that appointment once booked. And then perhaps replaced in turn with the outcome of that appointment, which might have its own next steps.
 
 Over time, this might evolve into an interface which treats test results and appointments not as one-off transactions, but as part of an ongoing relationship journey between the patient and the NHS.
 
