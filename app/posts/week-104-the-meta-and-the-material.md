@@ -36,6 +36,13 @@ I can’t always get my head around riskiest assumptions, problem statements, hy
 
 But taking a step back can be wise before diving in. We need a balance between the meta and the material.
 
+## Links
+
+* The GOV.UK Design System team added the [Interruption page](https://design-system.service.gov.uk/patterns/interruption-pages/) pattern this week. I helped with this a bit, as we published it within the NHS design system recently, but it was a cross-government effort.
+* [Stay put, or keep moving?](https://danielbower.com/2026/07/13/stay-put-keep-moving.html) by Dan Bower identifies a conflict in gradients between clinical and digital worlds in whether keeping moving is the safest option or not.
+* [Testing ‘one thing per page’ in practice](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/07/one-thing-per-page/) from Michael Watson discusses how the much-maligned one-thing-per-page guidance is being applied to questions about smoking shisha.
+* [Finding a jump-off](https://mikegallagher.org/posts/jump-off/) from Mike Gallagher articulates how the NHS App is currently a menu of disconnected services, and needs a new narrative to describe exactly how it might become something more coherent.
+
 ---
 
 World Cup was fun. I let my 6 year old stay up for the final. Viva Espana!
