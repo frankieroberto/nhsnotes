@@ -1,7 +1,7 @@
 ---
 title: "Week 104: The meta and the material"
 date: 2026-07-19
-description: Communicating the discovery, away day, the meta
+description: Communicating the discovery, away day, the meta.
 ---
 
 Last week of term (for my kids at least), and summer holidays are fast approaching.
