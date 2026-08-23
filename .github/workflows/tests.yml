@@ -3,6 +3,11 @@ name: tests
 on: pull_request
 
 jobs:
+  check_todos:
+    name: Check for TODOs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: frankieroberto/check-todos-action@v1
   test_build:
     name: Test build
     runs-on: ubuntu-latest
