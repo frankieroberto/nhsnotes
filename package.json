@@ -18,5 +18,9 @@
     "node": "^24"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "allowScripts": {
+    "@parcel/watcher": false,
+    "fsevents": false
+  }
 }
