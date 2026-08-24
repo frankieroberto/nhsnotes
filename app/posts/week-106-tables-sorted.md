@@ -18,7 +18,7 @@ I first used the pattern almost 10 years ago when working on [GOV.UK Ethnicity f
 
 Since then I’ve probably used the pattern on half a dozen government services, as you always end up with some pages of tables at some point, whether in an admin interface or on some kind of dashboard. Each time I’d copy the code from the last service I worked on (one benefit of working in the open!).
 
-It wasn’t always appreciated. I remember at the Department of Education being asked to build a quick-turnaround data visualisation for a Minister, and beavering away to build a mini web dashboard with some interactive charts and sortable tables, only to be told that the Minister didn’t use a computer and the report would have to be delivered to them as a print out. Oh well.
+It wasn’t always appreciated. I remember at the Department of Education being asked to build a quick-turnaround data visualisation for a Minister, and beavering away to build a mini web dashboard with some interactive charts and sortable tables, only to be told that the Minister wanted the report as a print out. Oh well.
 
 The Ministry of Justice [added Sortable tables](https://design-patterns.service.justice.gov.uk/components/sortable-table/) to their design system in 2021, and now we have it in the NHS one (ours have different arrows). We’ve made some improvements to the code, so I’ll try and suggest those to the MOJ and GOV.UK folks at some point soon.
 
