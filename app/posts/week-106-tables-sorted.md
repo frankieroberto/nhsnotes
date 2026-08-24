@@ -51,8 +51,3 @@ This one though is a bit more back to reality, as we want to show how the curren
 This has meant switching tools and building the prototypes using the existing web-based frontend. In theory it should have been quick to do, using the [NHS app design](https://design-system.nhsapp.service.nhs.uk) and existing prototypes, but I kept getting distracted by minor discrepancies between how the live app actually looks, and how the documentation suggests it should look. Probably it doesn’t matter for the sake of our planned user research, but I couldn’t resist investigating and updating a few things where I could.
 
 If nothing else, spotting tiny visual flaws helps assuage my fraudulent fears of not having a background in graphic design.
-
----
-
-Off to Birmingham next Thursday for a work meeting.
-
