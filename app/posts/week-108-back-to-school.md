@@ -8,6 +8,8 @@ After a long and hot summer, the kids finally started their new school year. We 
 
 I marked the occasion by taking the traditional doorstep uniform photo, and posted a celebratory message to our internal all-hands Slack channel. It can be tough juggling work and parenting, and inevitably the two worlds collide at times, so I’m glad to work somewhere that acknowledges and supports working parents.
 
+After the quietness of [last week](/posts/week-107-quiet-week/), the office was busier again, and I enjoyed the hubbub of catching up with people returning from holiday. I even got to meet [Benjy](https://www.benjystanton.co.uk/blog/canary-wharf-stopping-early-and-sea-swimming/) in-person for the first time.
+
 ## Homework
 
 I spent much of the week with Xcode open, exploring design and SwiftUI code for iOS native apps. There’s a lot to learn.
