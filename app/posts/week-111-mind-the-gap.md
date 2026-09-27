@@ -26,7 +26,7 @@ The same pattern could work for other things too, like getting a vaccination or 
 
 I don’t claim this is a novel idea - I’m sure others must have proposed similar before. It’s probably represented on many a service design blueprint. But as an organisation it’s not something we’ve so far been able to do. Instead we [ship our org chart](https://mikegallagher.org/posts/mistakes-were-made/).
 
-I showed it to Mike] and Ralph on Friday, and they thought it [offered coherence](https://ralphhawkins.co.uk/posts/weeknotes/2026-09-27-hub-and-spokesperson/). The hard part will be persuading others, particularly those who might understandably feel defensive where this encroaches on an area they’re responsible for.
+I showed it to Mike and Ralph on Friday, and they thought it [offered coherence](https://ralphhawkins.co.uk/posts/weeknotes/2026-09-27-hub-and-spokesperson/). The hard part will be persuading others, particularly those who might understandably feel defensive where this encroaches on an area they’re responsible for.
 
 But I think we should push the app design in the direction of closing the gaps between services.
 
