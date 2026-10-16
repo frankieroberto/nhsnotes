@@ -10,7 +10,7 @@ image:
 
 I’m writing these notes on the way back from [UK Gov Camp](https://www.ukgovcamp.com) in Birmingham. It was great to catch up with people at the event, meet some new folk, and take part in some thoughtful sessions.
 
-One of the more NHS-relevant discussions was about digital identity and verification. This meandered into talking about ‘proxy access’ too, with someone from the Department for Education saying that they’d like [GOVUK One Login](#TODO) to be able to support parent or carer relationships. This is something that the NHS already has, although it’s not yet as widely used or as easy to set up as it should be.
+One of the more NHS-relevant discussions was about digital identity and verification. This meandered into talking about ‘proxy access’ too, with someone from the Department for Education saying that they’d like [GOVUK One Login](https://www.sign-in.service.gov.uk) to be able to support parent or carer relationships. This is something that the NHS already has, although it’s not yet as widely used or as easy to set up as it should be.
 
 ## Patient-centred-design
 

@@ -8,7 +8,7 @@ A short week for me, as I returned on Wednesday from my skiing weekend (which wa
 
 ## Spring
 
-We’ve been getting ready for the start of the Spring 2026 Covid vaccination campaign. As with the winter campaign, this is for those over 75 years old, resident in a care home or immunosuppressed (see [JVCI guidance](https://www.gov.uk/government/publications/covid-19-vaccination-in-2025-and-spring-2026-jcvi-advice/jcvi-statement-on-covid-19-vaccination-in-2025-and-spring-2026#advice-on-vaccination-in-autumn-2025-and-spring-2026)).
+We’ve been getting ready for the start of the Spring 2026 Covid vaccination campaign. As with the winter campaign, this is for those over 75 years old, resident in a care home or immunosuppressed (see [JCVI guidance](https://www.gov.uk/government/publications/covid-19-vaccination-in-2025-and-spring-2026-jcvi-advice/jcvi-statement-on-covid-19-vaccination-in-2025-and-spring-2026#advice-on-vaccination-in-autumn-2025-and-spring-2026)).
 
 For the staff using [Record a vaccination](https://www.ravs.england.nhs.uk/) (RAVS), we’ll be sending them out an email reminding them to do the usual preparatory things such as making sure the right staff have access to the service, and adding the new vaccine products and batches for the locations where they’ll be giving the vaccinations.
 

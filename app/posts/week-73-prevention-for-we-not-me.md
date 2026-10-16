@@ -28,7 +28,7 @@ The research reminded me again how valuable it is to get out and talk to your us
 
 We had an amazing talk from [Dr Jess Morley](https://dec.yale.edu/jess-morley) of the Yale Digital Ethics Center this week. It started out with a great primer on the different forms of AI, going beyond the buzzword. But the big pivot in the talk was a call to stop thinking about just using AI to just treat the individual, but instead to look at the bigger picture of population health.
 
-As Jess put it, we cannot make our bodies work like computers. You don't get a health population by improving the health of individuals. Health is connected, and so we have to target populations. There’s no point in predicting that somebody is about to develop a specific disease and telling them that what they need to do is to exercise and eat better if they live in a food desert and don’t have time to work out.
+As Jess put it, we cannot make our bodies work like computers. You don't get a healthy population by improving the health of individuals. Health is connected, and so we have to target populations. There’s no point in predicting that somebody is about to develop a specific disease and telling them that what they need to do is to exercise and eat better if they live in a food desert and don’t have time to work out.
 
 You can’t empower people just by telling them what to do if you don’t make the environment more conducive to it.
 

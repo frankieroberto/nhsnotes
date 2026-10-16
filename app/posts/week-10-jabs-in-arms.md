@@ -4,7 +4,7 @@ date: 2024-06-28
 description: Visting a COVID-19 vaccination centre. Headers. Fixed deadline, variable scope.
 image:
   src: /images/covid-19-vaccination-somerset.jpeg
-  alt: Photo of a lightbulb recessed into ceiling
+  alt: Photo of a COVID-19 vaccination sign
   opengraphImage: true
 ---
 

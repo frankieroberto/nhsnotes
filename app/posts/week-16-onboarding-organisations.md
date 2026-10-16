@@ -14,7 +14,7 @@ So far it’s working well!
 
 ## Registers and autocompletes
 
-Part of the onboarding interface involved integrating with the [Organisation Sata Service (ODS)](https://digital.nhs.uk/services/organisation-data-service) using their API.
+Part of the onboarding interface involved integrating with the [Organisation Data Service (ODS)](https://digital.nhs.uk/services/organisation-data-service) using their API.
 
 Having an autocomplete backed by a definitive register of organisations is super valuable for avoiding data errors, but can be hard to do.
 
