@@ -14,7 +14,7 @@ We had a really great half term holiday (despite the rain), but towards the end 
 
 We got home, I started to unpack, but then had to lie down. And then pretty much stayed in bed for 3 straight days.
 
-I assumed it was flu, but my wife suggested a Covid test, and lo and beyond, that second red line appeared instantly.
+I assumed it was flu, but my wife suggested a Covid test, and lo and behold, that second red line appeared instantly.
 
 For some reason, knowing you have Covid feels completely different from having flu. I guess it’s the flashbacks to lockdown when Covid was new and unknown.
 

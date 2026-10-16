@@ -36,7 +36,7 @@ The web is still my first true love, but I’m excited to learn and get stuck in
 
 Lots of gov design is designing for services for staff, whether those be civil servants or teachers or doctors and nurses. It’s what I’ve probably spent most of my time doing.
 
-There are government services used by huge propositions of the general public, like GOV.UK or applying for common things like driving licenses or passports, but those services tend to be the minority.
+There are government services used by huge proportions of the general public, like GOV.UK or applying for common things like driving licenses or passports, but those services tend to be the minority.
 
 The NHS App though is truly used by vast numbers of people, and the ambition is for it to be used by almost everyone. This is particularly true when you think of prevention services as being used by people when they are well and not just those who are ill or have a condition.
 

@@ -48,7 +48,7 @@ One foundational change is that we’ve recently included a page template with N
 
 I’ve also added a ‘Reset data’ feature to the prototype kit, which is helpful when doing design, and can also be used by participants at the end of a usability research session to help reassure them that any data they’ve entered is not retained.
 
-It’s a feature that the GOV.UK Prototype kit has had for years, so I largely just copied that, but I was about to make a small improvement: once you’ve reset the data it’ll take you back to the page you were previously on.
+It’s a feature that the GOV.UK Prototype kit has had for years, so I largely just copied that, but I was able to make a small improvement: once you’ve reset the data it’ll take you back to the page you were previously on.
 
 ## Links
 

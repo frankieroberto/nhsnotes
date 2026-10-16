@@ -48,7 +48,7 @@ Version 10 was a huge, year-long effort (alongside other work) by many people. H
 
 ## Vaccine news
 
-The government announced this week that a [chickenpox vaccine will be offered to children in England](https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children) from January, following [a JVCI recommendation](https://www.gov.uk/government/publications/childhood-varicella-vaccination-programme-jcvi-advice-14-november-2023/jcvi-statement-on-a-childhood-varicella-chickenpox-vaccination-programme).
+The government announced this week that a [chickenpox vaccine will be offered to children in England](https://www.gov.uk/government/news/free-chickenpox-vaccination-offered-for-first-time-to-children) from January, following [a JCVI recommendation](https://www.gov.uk/government/publications/childhood-varicella-vaccination-programme-jcvi-advice-14-november-2023/jcvi-statement-on-a-childhood-varicella-chickenpox-vaccination-programme).
 
 The chickenpox vaccine was discussed quite a bit in the [immunisation network conference I attended](/posts/week-54-live-long-and-prosper/) back in June, connected with a debate on whether wider economic factors should be part of vaccine programme decision making. So it’s of note that this week’s press release mentions a calculated £24 million in lost income and productivity from parents having to take time off work to look after their children.
 

@@ -28,7 +28,7 @@ One the planned discussions was about ‘reuse’. This wasn’t well defined so
 
 My reaction when people mention reuse is to talk about micro things like the design system (see above), frontend libraries and common style guides. There is informal reusing too – designers are magpies, and are constantly copying and tweaking ideas from other people.
 
-But much of the discussion was about the higher-level reusing of platforms and API services - thinks like [NHS Notify](https://notify.nhs.uk/), [Cohorting as a service](https://digital.nhs.uk/services/cohorting-as-a-service-caas), [Care Identity Service](https://digital.nhs.uk/services/care-identity-service) and so on. The NHS has lot of these, in different stages of development.
+But much of the discussion was about the higher-level reusing of platforms and API services - things like [NHS Notify](https://notify.nhs.uk/), [Cohorting as a service](https://digital.nhs.uk/services/cohorting-as-a-service-caas), [Care Identity Service](https://digital.nhs.uk/services/care-identity-service) and so on. The NHS has lot of these, in different stages of development.
 
 The result of our discussion was to list 3, perhaps-controversial ideas:
 

@@ -58,4 +58,4 @@ Only 1 link this week, but it's a big one: [Operating patterns for a more dynami
 
 ---
 
-This is my 100th weeknote. I didn’t expect to keep up the practice this long. If you read these and have comments, do let me know. I mostly write them for myself by I’m happy to take feedback too.
+This is my 100th weeknote. I didn’t expect to keep up the practice this long. If you read these and have comments, do let me know. I mostly write them for myself but I’m happy to take feedback too.

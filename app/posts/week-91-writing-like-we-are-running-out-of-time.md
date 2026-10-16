@@ -24,7 +24,7 @@ Our [mission](/posts/week-90-hail-mary/) is important, and we’re not throwing 
 * [Writing a business plan in NHS England](https://danielbower.com/2026/03/31/nhs-england-business-plan) from Dan Bower
 * [Becoming everyone’s problem](https://mikegallagher.org/posts/becoming-everyones-problem/) from Mike Gallagher
 * [How user centred design became a handbrake](https://medium.com/@veroj/how-user-centred-design-became-a-handbrake-5b9d2671da00) from Vero Jermolina
-* [Mutally assured limbo](https://ralphhawkins.co.uk/posts/weeknotes/2026-03-29-mutually-assured-limbo/?from=home) from Ralph Hawkins
+* [Mutually assured limbo](https://ralphhawkins.co.uk/posts/weeknotes/2026-03-29-mutually-assured-limbo/?from=home) from Ralph Hawkins
 
 ---
 

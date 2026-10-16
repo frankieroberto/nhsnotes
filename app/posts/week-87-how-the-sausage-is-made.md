@@ -30,6 +30,6 @@ Ultimately there are many ways to make the sausage.
 
 ---
 
-A short week for me this week and next week, as I'm currently on a TGV en route to thr Alps for a ski weekend!
+A short week for me this week and next week, as I'm currently on a TGV en route to the Alps for a ski weekend!
 
 

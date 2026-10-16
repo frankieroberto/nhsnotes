@@ -8,7 +8,7 @@ Another week of glorious sunshine. A few of us colluded together to switch to sh
 
 ## Platformland principles
 
-As part of our irregular series of Thougthful Thursdays internal talks, this week Richard Pope spoke about the principles from his Platformland book, bringing it to life with some great examples.
+As part of our irregular series of Thoughtful Thursdays internal talks, this week Richard Pope spoke about the principles from his Platformland book, bringing it to life with some great examples.
 
 I won’t try and summarise the whole thing, but some of the points that stood out to me were:
 

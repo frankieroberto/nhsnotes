@@ -22,7 +22,7 @@ It didn’t take long for people to realise that the hub doesn’t actually host
 
 You can see where this strategy may have came from. If you take the premise that there’s a skills shortage around AI, you might then conclude that this gap exists partly because people don’t know where and how to acquire the skills. Hence a proposed solution of: a portal. You might even have some research where people suggest this or think it sounds like a good idea.
 
-The thing this: this applies to just about any domain. The world is complicated and messy, and finding out about anything, whether it’s clubs you can join, places to eat, entertainment you can watch, or health services you can access, is hard work.
+The thing is: this applies to just about any domain. The world is complicated and messy, and finding out about anything, whether it’s clubs you can join, places to eat, entertainment you can watch, or health services you can access, is hard work.
 
 But a portal rarely solves this problem. More often that not, they just add another website to the existing cacophony of websites.
 
