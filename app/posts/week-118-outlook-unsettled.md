@@ -12,7 +12,7 @@ It also means that users could add appointments for services beyond those covere
 
 The process of prototyping this was remarkably freeing. Rather than looking at what data the app currently has for appointments and working out how best to display it, I could flip my thinking to be user-centric: what information would users want to add about their appointments? And how does that differ when adding an upcoming appointment versus one in the past?
 
-The same flip applies to the interface as a whole. Mike and I have discussed an idea: what if the main view of the app was a timeline? Instead of a series of menus for things like prescriptions, vaccinations and test results, would it make sense to show these in a combined chronological feed, perhaps with filters or search? I tried that out too.
+The same flip applies to the interface as a whole. [Mike](https://mikegallagher.org) and I have discussed an idea: what if the main view of the app was a timeline? Instead of a series of menus for things like prescriptions, vaccinations and test results, would it make sense to show these in a combined chronological feed, perhaps with filters or search? I tried that out too.
 
 I’m also interested in how enabling self-entered appointments might mean a different approach to research and testing. At the moment, two common approaches are to observe how users use the current live app with their real data in it, or to give them a prototype with mocked-up data, imagining a hypothetical scenario. Instead, we could ask them to use a prototype for a longer period of time, adding the real information they’d expect to see.
 
