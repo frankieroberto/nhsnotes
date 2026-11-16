@@ -6,7 +6,7 @@ description: Prototyping on a very quiet Friday
 
 A Friday in the office. I was the only one there. Outlook wasn’t working due to the global outage. My calendar was remarkably free of meetings. I took the opportunity to scratch an itch and create a new prototype.
 
-If you’ve been following these weeknotes, you’ll know that I’ve been floating the idea of letting users add appointments to the NHS App themselves. In some ways it’s a poor substitute for doing the internal work to have them appear automatically, and foisting the admin burden onto users instead. But at this point, getting all NHS appointments into the app feels like it’s many, many years away. So allowing users to add their own missing appointments might be a useful pragmatic option.
+If you’ve been following these weeknotes, you’ll know that I’ve been floating the idea of letting users add appointments to the NHS App themselves. In some ways it’s a poor substitute for doing the internal work to have them appear automatically, foisting the admin burden onto users instead. But at this point, getting all NHS appointments into the app feels like it’s many, many years away. So allowing users to add their own missing appointments might be a useful pragmatic option.
 
 It also means that users could add appointments for services beyond those covered by the NHS in England: say, private dental or optician appointments, or appointments with the NHS in Wales or Scotland, or even medical appointments whilst abroad on holiday.
 
