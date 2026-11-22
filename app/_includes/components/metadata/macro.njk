@@ -1,0 +1,27 @@
+{% macro appMetadata(params) %}
+  {% if params.date or params.modified or params.tags | length > 0 %}
+  <dl class="app-post-metadata">
+    {% if params.date %}
+    <div class="app-post-metadata__item">
+      <dt class="govuk-visually-hidden">Published</dt>
+      <dd><time datetime="{{ params.date | isoDate }}">{{ params.date | govukDate }}</time></dd>
+    </div>
+    {% endif %}
+    {% if params.modified %}
+    <div class="app-post-metadata__item">
+      <dt>Last updated</dt>
+      <dd><time datetime="{{ params.modified | isoDate }}">{{ params.modified | govukDate }}</time></dd>
+    </div>
+    {% endif %}
+    {% if params.tags | length > 0 %}
+    <div class="app-post-metadata__item">
+      <dt>Tagged</dt>
+      <dd>{% for tag in params.tags -%}
+        <a href="/tags/{{ tag | slug }}" class="govuk-link">{{ tag }}</a>
+        {%- if not loop.last %}, {% endif -%}
+      {%- endfor %}</dd>
+    </div>
+    {% endif %}
+  </dl>
+  {% endif %}
+{% endmacro %}

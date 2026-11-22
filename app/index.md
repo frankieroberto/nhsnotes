@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: collection
-title: Notes from working on NHS digital prevention services
-description: From Frankie Roberto
+title: NHS notes
+description: Weekly reflections on designing digital services for the NHS.
 pagination:
   data: collections.post
   size: 20
