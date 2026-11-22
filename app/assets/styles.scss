@@ -18,10 +18,107 @@ $_accent_colour: #005eb8;
 }
 
 .app-document-list__item {
-  border-top-style: dashed;
-  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-width: 1px;
 }
 
-.app-header__logotype {
+.app-header,
+.app-header.app-header--no-border {
+  background: $_accent_colour;
+  border: 0;
+}
+
+.app-header__logo {
+  padding: 20px 0;
+}
+
+.app-header--no-border .app-header__logo {
+  padding: 30px 0 0;
+}
+
+.app-header .govuk-header__homepage-link {
+  display: inline-block;
+  color: #fff;
+  line-height: 1.1;
+}
+
+.app-header .govuk-header__homepage-link:not(:focus) {
+  background: transparent;
+}
+
+.app-header .govuk-header__homepage-link:focus {
+  color: #0b0c0c;
+}
+
+.app-header .govuk-header__homepage-link:hover:not(:focus) {
+  margin-bottom: 0;
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+.app-header .govuk-header__homepage-link:hover:not(:focus) .app-header__name {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.15em;
+}
+
+.app-header__name,
+.app-header__subject {
+  display: block;
+}
+
+.app-header__name {
+  font-size: clamp(1.75rem, 3vw, 2rem);
   font-weight: bold;
+  letter-spacing: -0.02em;
+}
+
+.app-header--no-border .app-header__name {
+  font-size: clamp(2rem, 4vw, 2.5rem);
+}
+
+.app-header__subject {
+  margin-top: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.app-header--no-border .app-header__subject {
+  display: none;
+}
+
+.govuk-template__header + .x-govuk-masthead {
+  background: $_accent_colour;
+  color: #fff;
+}
+
+.govuk-template__header + .x-govuk-masthead .x-govuk-masthead__title {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.govuk-template__header + .x-govuk-masthead .x-govuk-masthead__description {
+  color: #fff;
+}
+
+.app-document-header:has(+ .govuk-grid-row .app-post-metadata) .govuk-heading-xl {
+  margin-bottom: 8px;
+}
+
+.app-post-metadata {
+  margin: 0 0 30px;
+  color: #505a5f;
+  font-family: $_font-family;
+  font-size: 1.1875rem;
+  line-height: 1.5;
+}
+
+.app-post-metadata__item + .app-post-metadata__item {
+  margin-top: 5px;
+}
+
+.app-post-metadata__item dt:not(.govuk-visually-hidden),
+.app-post-metadata__item dd {
+  display: inline;
+  margin: 0;
 }

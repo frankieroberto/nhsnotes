@@ -15,14 +15,14 @@ export default function(eleventyConfig) {
     },
     header: {
       logotype: {
-        text: 'NHS notes'
+        html: '<span class="app-header__name">Frankie Roberto</span> <span class="app-header__subject">NHS notes</span>'
       },
       productName: "",
       organisationName: "Frankie Roberto"
     },
     footer: {
       copyright: {
-        text: '© 2024–2025'
+        text: '© 2024–2026'
       },
       contentLicence: {
         text: "This is a personal blog. Views expressed are not necessarily those of the NHS."
@@ -42,6 +42,7 @@ export default function(eleventyConfig) {
       shortcut: false,
       mask: false
     },
+    opengraphImageUrl: 'https://frankieroberto.github.io/nhsnotes/images/social.png',
     themeColor: '#005eb8',
     stylesheets: ['/assets/styles.css'],
     titleSuffix: 'NHS notes from Frankie Roberto',
